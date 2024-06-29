@@ -1,0 +1,23 @@
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_pressed="true">
+        <!-- 当视图被按下时使用的背景 -->
+        <shape>
+            <!-- 按下时的背景定义，可以包括边框 -->
+        </shape>
+    </item>
+    <item android:state_focused="true">
+        <!-- 当视图获得焦点时使用的背景 -->
+        <shape>
+            <!-- 获得焦点时的背景定义，可以包括边框 -->
+        </shape>
+    </item>
+    <item>
+        <!-- 默认状态下的背景 -->
+        <shape>
+            <!-- 引入之前定义的带有边框的形状 -->
+            <solid android:color="#FFFFFF"/>
+            <stroke android:width="2dp" android:color="#000000"/>
+            <corners android:radius="0dp"/>
+        </shape>
+    </item>
+</selector>

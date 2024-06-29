@@ -1,0 +1,70 @@
+[
+    {
+        "merged": "com.jollitycn.mobilekeybroad.app-mergeDebugResources-72:/layout/custom_title.xml",
+        "source": "com.jollitycn.mobilekeybroad.app-main-75:/layout/custom_title.xml"
+    },
+    {
+        "merged": "com.jollitycn.mobilekeybroad.app-mergeDebugResources-72:/layout/keyboard_fragment.xml",
+        "source": "com.jollitycn.mobilekeybroad.app-main-75:/layout/keyboard_fragment.xml"
+    },
+    {
+        "merged": "com.jollitycn.mobilekeybroad.app-mergeDebugResources-72:/layout/activity_keybroad.xml",
+        "source": "com.jollitycn.mobilekeybroad.app-main-75:/layout/activity_keybroad.xml"
+    },
+    {
+        "merged": "com.jollitycn.mobilekeybroad.app-mergeDebugResources-72:/layout/fragment_transform.xml",
+        "source": "com.jollitycn.mobilekeybroad.app-main-75:/layout/fragment_transform.xml"
+    },
+    {
+        "merged": "com.jollitycn.mobilekeybroad.app-mergeDebugResources-72:/layout/app_bar_main.xml",
+        "source": "com.jollitycn.mobilekeybroad.app-main-75:/layout/app_bar_main.xml"
+    },
+    {
+        "merged": "com.jollitycn.mobilekeybroad.app-mergeDebugResources-72:/layout/mouse_control_fragment.xml",
+        "source": "com.jollitycn.mobilekeybroad.app-main-75:/layout/mouse_control_fragment.xml"
+    },
+    {
+        "merged": "com.jollitycn.mobilekeybroad.app-mergeDebugResources-72:/layout/item_transform.xml",
+        "source": "com.jollitycn.mobilekeybroad.app-main-75:/layout/item_transform.xml"
+    },
+    {
+        "merged": "com.jollitycn.mobilekeybroad.app-mergeDebugResources-72:/layout/bluetooth_device_list_item.xml",
+        "source": "com.jollitycn.mobilekeybroad.app-main-75:/layout/bluetooth_device_list_item.xml"
+    },
+    {
+        "merged": "com.jollitycn.mobilekeybroad.app-mergeDebugResources-72:/layout/fragment_settings.xml",
+        "source": "com.jollitycn.mobilekeybroad.app-main-75:/layout/fragment_settings.xml"
+    },
+    {
+        "merged": "com.jollitycn.mobilekeybroad.app-mergeDebugResources-72:/layout/mousepad_fragment.xml",
+        "source": "com.jollitycn.mobilekeybroad.app-main-75:/layout/mousepad_fragment.xml"
+    },
+    {
+        "merged": "com.jollitycn.mobilekeybroad.app-mergeDebugResources-72:/layout/activity_mainbak.xml",
+        "source": "com.jollitycn.mobilekeybroad.app-main-75:/layout/activity_mainbak.xml"
+    },
+    {
+        "merged": "com.jollitycn.mobilekeybroad.app-mergeDebugResources-72:/layout/device_name.xml",
+        "source": "com.jollitycn.mobilekeybroad.app-main-75:/layout/device_name.xml"
+    },
+    {
+        "merged": "com.jollitycn.mobilekeybroad.app-mergeDebugResources-72:/layout/device_list.xml",
+        "source": "com.jollitycn.mobilekeybroad.app-main-75:/layout/device_list.xml"
+    },
+    {
+        "merged": "com.jollitycn.mobilekeybroad.app-mergeDebugResources-72:/layout/fragment_reflow.xml",
+        "source": "com.jollitycn.mobilekeybroad.app-main-75:/layout/fragment_reflow.xml"
+    },
+    {
+        "merged": "com.jollitycn.mobilekeybroad.app-mergeDebugResources-72:/layout/fragment_slideshow.xml",
+        "source": "com.jollitycn.mobilekeybroad.app-main-75:/layout/fragment_slideshow.xml"
+    },
+    {
+        "merged": "com.jollitycn.mobilekeybroad.app-mergeDebugResources-72:/layout/nav_header_main.xml",
+        "source": "com.jollitycn.mobilekeybroad.app-main-75:/layout/nav_header_main.xml"
+    },
+    {
+        "merged": "com.jollitycn.mobilekeybroad.app-mergeDebugResources-72:/layout/content_main.xml",
+        "source": "com.jollitycn.mobilekeybroad.app-main-75:/layout/content_main.xml"
+    }
+]

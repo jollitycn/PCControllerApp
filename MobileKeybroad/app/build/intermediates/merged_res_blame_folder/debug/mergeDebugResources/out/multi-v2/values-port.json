@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.jollitycn.mobilekeybroad.app-mergeDebugResources-71:/values-port/values-port.xml",
+            "map": [
+                {
+                    "source": "D:\\Users\\jollitycn\\.m2\\repository\\caches\\transforms-4\\e58379b0d6d68636b77db146f8912b37\\transformed\\appcompat-1.6.1\\res\\values-port\\values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                },
+                {
+                    "source": "D:\\Users\\jollitycn\\.m2\\repository\\caches\\transforms-4\\95831122b86d8bc4cdbccda06bfea7ee\\transformed\\car-ui-lib-2.6.0\\res\\values-port\\values.xml",
+                    "from": {
+                        "startLines": "4,7,8",
+                        "startColumns": "0,0,0",
+                        "startOffsets": "212,423,488",
+                        "endColumns": "59,64,62",
+                        "endOffsets": "271,487,550"
+                    },
+                    "to": {
+                        "startLines": "3,4,5",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "111,175,244",
+                        "endColumns": "63,68,66",
+                        "endOffsets": "170,239,306"
+                    }
+                }
+            ]
+        }
+    ]
+}

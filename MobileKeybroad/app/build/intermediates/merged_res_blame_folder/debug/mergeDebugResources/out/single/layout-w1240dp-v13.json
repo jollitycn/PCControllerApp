@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "com.jollitycn.mobilekeybroad.app-mergeDebugResources-72:/layout-w1240dp-v13/content_main.xml",
+        "source": "com.jollitycn.mobilekeybroad.app-main-75:/layout-w1240dp/content_main.xml"
+    },
+    {
+        "merged": "com.jollitycn.mobilekeybroad.app-mergeDebugResources-72:/layout-w1240dp-v13/activity_mainbak.xml",
+        "source": "com.jollitycn.mobilekeybroad.app-main-75:/layout-w1240dp/activity_mainbak.xml"
+    },
+    {
+        "merged": "com.jollitycn.mobilekeybroad.app-mergeDebugResources-72:/layout-w1240dp-v13/activity_main.xml",
+        "source": "com.jollitycn.mobilekeybroad.app-main-75:/layout-w1240dp/activity_main.xml"
+    },
+    {
+        "merged": "com.jollitycn.mobilekeybroad.app-mergeDebugResources-72:/layout-w1240dp-v13/app_bar_main.xml",
+        "source": "com.jollitycn.mobilekeybroad.app-main-75:/layout-w1240dp/app_bar_main.xml"
+    }
+]
