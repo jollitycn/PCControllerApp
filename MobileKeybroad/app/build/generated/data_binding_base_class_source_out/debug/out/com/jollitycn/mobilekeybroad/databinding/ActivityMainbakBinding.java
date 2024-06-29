@@ -7,14 +7,13 @@ import android.view.ViewGroup;
 import android.widget.FrameLayout;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
-import androidx.appcompat.widget.Toolbar;
 import androidx.drawerlayout.widget.DrawerLayout;
 import androidx.viewbinding.ViewBinding;
 import androidx.viewbinding.ViewBindings;
-import com.google.android.material.tabs.TabLayout;
 import com.jollitycn.mobilekeybroad.R;
-import com.jollitycn.mobilekeybroad.bluetoothpccontrol.NoSwipePager;
+import java.lang.NullPointerException;
 import java.lang.Override;
+import java.lang.String;
 
 public final class ActivityMainbakBinding implements ViewBinding {
   @NonNull
@@ -23,21 +22,7 @@ public final class ActivityMainbakBinding implements ViewBinding {
   @NonNull
   public final FrameLayout activityContainer;
 
-  /**
-   * This binding is not available in all configurations.
-   * <p>
-   * Present:
-   * <ul>
-   *   <li>layout-w1240dp/</li>
-   *   <li>layout-w600dp/</li>
-   * </ul>
-   *
-   * Absent:
-   * <ul>
-   *   <li>layout/</li>
-   * </ul>
-   */
-  @Nullable
+  @NonNull
   public final AppBarMainBinding appBarMain;
 
   /**
@@ -57,68 +42,13 @@ public final class ActivityMainbakBinding implements ViewBinding {
   @Nullable
   public final DrawerLayout drawerLayout;
 
-  /**
-   * This binding is not available in all configurations.
-   * <p>
-   * Present:
-   * <ul>
-   *   <li>layout/</li>
-   * </ul>
-   *
-   * Absent:
-   * <ul>
-   *   <li>layout-w1240dp/</li>
-   *   <li>layout-w600dp/</li>
-   * </ul>
-   */
-  @Nullable
-  public final NoSwipePager pager;
-
-  /**
-   * This binding is not available in all configurations.
-   * <p>
-   * Present:
-   * <ul>
-   *   <li>layout/</li>
-   * </ul>
-   *
-   * Absent:
-   * <ul>
-   *   <li>layout-w1240dp/</li>
-   *   <li>layout-w600dp/</li>
-   * </ul>
-   */
-  @Nullable
-  public final TabLayout tabLayout;
-
-  /**
-   * This binding is not available in all configurations.
-   * <p>
-   * Present:
-   * <ul>
-   *   <li>layout/</li>
-   * </ul>
-   *
-   * Absent:
-   * <ul>
-   *   <li>layout-w1240dp/</li>
-   *   <li>layout-w600dp/</li>
-   * </ul>
-   */
-  @Nullable
-  public final Toolbar toolbar;
-
   private ActivityMainbakBinding(@NonNull FrameLayout rootView,
-      @NonNull FrameLayout activityContainer, @Nullable AppBarMainBinding appBarMain,
-      @Nullable DrawerLayout drawerLayout, @Nullable NoSwipePager pager,
-      @Nullable TabLayout tabLayout, @Nullable Toolbar toolbar) {
+      @NonNull FrameLayout activityContainer, @NonNull AppBarMainBinding appBarMain,
+      @Nullable DrawerLayout drawerLayout) {
     this.rootView = rootView;
     this.activityContainer = activityContainer;
     this.appBarMain = appBarMain;
     this.drawerLayout = drawerLayout;
-    this.pager = pager;
-    this.tabLayout = tabLayout;
-    this.toolbar = toolbar;
   }
 
   @Override
@@ -144,22 +74,26 @@ public final class ActivityMainbakBinding implements ViewBinding {
 
   @NonNull
   public static ActivityMainbakBinding bind(@NonNull View rootView) {
-    FrameLayout activityContainer = (FrameLayout) rootView;
+    // The body of this method is generated in a way you would not otherwise write.
+    // This is done to optimize the compiled bytecode for size and performance.
+    int id;
+    missingId: {
+      FrameLayout activityContainer = (FrameLayout) rootView;
 
-    View appBarMain = ViewBindings.findChildViewById(rootView, R.id.app_bar_main);
-    AppBarMainBinding binding_appBarMain = appBarMain != null
-        ? AppBarMainBinding.bind(appBarMain)
-        : null;
+      id = R.id.app_bar_main;
+      View appBarMain = ViewBindings.findChildViewById(rootView, id);
+      if (appBarMain == null) {
+        break missingId;
+      }
+      AppBarMainBinding binding_appBarMain = AppBarMainBinding.bind(appBarMain);
 
-    DrawerLayout drawerLayout = ViewBindings.findChildViewById(rootView, R.id.drawer_layout);
+      id = R.id.drawer_layout;
+      DrawerLayout drawerLayout = ViewBindings.findChildViewById(rootView, id);
 
-    NoSwipePager pager = ViewBindings.findChildViewById(rootView, R.id.pager);
-
-    TabLayout tabLayout = ViewBindings.findChildViewById(rootView, R.id.tab_layout);
-
-    Toolbar toolbar = ViewBindings.findChildViewById(rootView, R.id.toolbar);
-
-    return new ActivityMainbakBinding((FrameLayout) rootView, activityContainer, binding_appBarMain,
-        drawerLayout, pager, tabLayout, toolbar);
+      return new ActivityMainbakBinding((FrameLayout) rootView, activityContainer,
+          binding_appBarMain, drawerLayout);
+    }
+    String missingId = rootView.getResources().getResourceName(id);
+    throw new NullPointerException("Missing required view with ID: ".concat(missingId));
   }
 }

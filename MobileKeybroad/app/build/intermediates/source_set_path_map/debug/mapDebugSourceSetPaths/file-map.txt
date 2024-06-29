@@ -67,10 +67,10 @@ com.jollitycn.mobilekeybroad.app-lifecycle-viewmodel-release-65 D:\Users\jollity
 com.jollitycn.mobilekeybroad.app-lifecycle-livedata-ktx-2.8.0-66 D:\Users\jollitycn\.m2\repository\caches\transforms-4\f951cfda438d7aa58194ad52fdfc1554\transformed\lifecycle-livedata-ktx-2.8.0\res
 com.jollitycn.mobilekeybroad.app-drawerlayout-1.1.1-67 D:\Users\jollitycn\.m2\repository\caches\transforms-4\fe9d1073f5cfce3b284112d8b69134c5\transformed\drawerlayout-1.1.1\res
 com.jollitycn.mobilekeybroad.app-lifecycle-runtime-ktx-release-68 D:\Users\jollitycn\.m2\repository\caches\transforms-4\fed3db4a68609f17e2e29227f26a742a\transformed\lifecycle-runtime-ktx-release\res
-com.jollitycn.mobilekeybroad.app-pngs-69 E:\studio\project\audioPlayer\client\mobile\MobileKeybroad\app\build\generated\res\pngs\debug
-com.jollitycn.mobilekeybroad.app-resValues-70 E:\studio\project\audioPlayer\client\mobile\MobileKeybroad\app\build\generated\res\resValues\debug
-com.jollitycn.mobilekeybroad.app-packageDebugResources-71 E:\studio\project\audioPlayer\client\mobile\MobileKeybroad\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
-com.jollitycn.mobilekeybroad.app-packageDebugResources-72 E:\studio\project\audioPlayer\client\mobile\MobileKeybroad\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
-com.jollitycn.mobilekeybroad.app-debug-73 E:\studio\project\audioPlayer\client\mobile\MobileKeybroad\app\build\intermediates\merged_res\debug\mergeDebugResources
-com.jollitycn.mobilekeybroad.app-debug-74 E:\studio\project\audioPlayer\client\mobile\MobileKeybroad\app\src\debug\res
-com.jollitycn.mobilekeybroad.app-main-75 E:\studio\project\audioPlayer\client\mobile\MobileKeybroad\app\src\main\res
+com.jollitycn.mobilekeybroad.app-pngs-69 E:\studio\project\PCControllerApp\MobileKeybroad\app\build\generated\res\pngs\debug
+com.jollitycn.mobilekeybroad.app-resValues-70 E:\studio\project\PCControllerApp\MobileKeybroad\app\build\generated\res\resValues\debug
+com.jollitycn.mobilekeybroad.app-packageDebugResources-71 E:\studio\project\PCControllerApp\MobileKeybroad\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.jollitycn.mobilekeybroad.app-packageDebugResources-72 E:\studio\project\PCControllerApp\MobileKeybroad\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.jollitycn.mobilekeybroad.app-debug-73 E:\studio\project\PCControllerApp\MobileKeybroad\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.jollitycn.mobilekeybroad.app-debug-74 E:\studio\project\PCControllerApp\MobileKeybroad\app\src\debug\res
+com.jollitycn.mobilekeybroad.app-main-75 E:\studio\project\PCControllerApp\MobileKeybroad\app\src\main\res
