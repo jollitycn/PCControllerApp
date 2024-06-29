@@ -4,30 +4,106 @@ package com.jollitycn.mobilekeybroad.databinding;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
-import android.widget.RelativeLayout;
+import android.widget.FrameLayout;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
+import androidx.appcompat.widget.Toolbar;
+import androidx.drawerlayout.widget.DrawerLayout;
 import androidx.viewbinding.ViewBinding;
+import androidx.viewbinding.ViewBindings;
+import com.google.android.material.tabs.TabLayout;
 import com.jollitycn.mobilekeybroad.R;
-import java.lang.NullPointerException;
 import java.lang.Override;
 
 public final class ActivityMainBinding implements ViewBinding {
   @NonNull
-  private final RelativeLayout rootView;
+  private final FrameLayout rootView;
 
   @NonNull
-  public final RelativeLayout llMousePad;
+  public final FrameLayout activityContainer;
 
-  private ActivityMainBinding(@NonNull RelativeLayout rootView,
-      @NonNull RelativeLayout llMousePad) {
+  /**
+   * This binding is not available in all configurations.
+   * <p>
+   * Present:
+   * <ul>
+   *   <li>layout-w1240dp/</li>
+   *   <li>layout-w600dp/</li>
+   * </ul>
+   *
+   * Absent:
+   * <ul>
+   *   <li>layout/</li>
+   * </ul>
+   */
+  @Nullable
+  public final AppBarMainBinding appBarMain;
+
+  /**
+   * This binding is not available in all configurations.
+   * <p>
+   * Present:
+   * <ul>
+   *   <li>layout-w600dp/</li>
+   * </ul>
+   *
+   * Absent:
+   * <ul>
+   *   <li>layout/</li>
+   *   <li>layout-w1240dp/</li>
+   * </ul>
+   */
+  @Nullable
+  public final DrawerLayout drawerLayout;
+
+  /**
+   * This binding is not available in all configurations.
+   * <p>
+   * Present:
+   * <ul>
+   *   <li>layout/</li>
+   * </ul>
+   *
+   * Absent:
+   * <ul>
+   *   <li>layout-w1240dp/</li>
+   *   <li>layout-w600dp/</li>
+   * </ul>
+   */
+  @Nullable
+  public final TabLayout tabLayout;
+
+  /**
+   * This binding is not available in all configurations.
+   * <p>
+   * Present:
+   * <ul>
+   *   <li>layout/</li>
+   * </ul>
+   *
+   * Absent:
+   * <ul>
+   *   <li>layout-w1240dp/</li>
+   *   <li>layout-w600dp/</li>
+   * </ul>
+   */
+  @Nullable
+  public final Toolbar toolbar;
+
+  private ActivityMainBinding(@NonNull FrameLayout rootView, @NonNull FrameLayout activityContainer,
+      @Nullable AppBarMainBinding appBarMain, @Nullable DrawerLayout drawerLayout,
+      @Nullable TabLayout tabLayout, @Nullable Toolbar toolbar) {
     this.rootView = rootView;
-    this.llMousePad = llMousePad;
+    this.activityContainer = activityContainer;
+    this.appBarMain = appBarMain;
+    this.drawerLayout = drawerLayout;
+    this.tabLayout = tabLayout;
+    this.toolbar = toolbar;
   }
 
   @Override
   @NonNull
-  public RelativeLayout getRoot() {
+  public FrameLayout getRoot() {
     return rootView;
   }
 
@@ -48,12 +124,20 @@ public final class ActivityMainBinding implements ViewBinding {
 
   @NonNull
   public static ActivityMainBinding bind(@NonNull View rootView) {
-    if (rootView == null) {
-      throw new NullPointerException("rootView");
-    }
+    FrameLayout activityContainer = (FrameLayout) rootView;
 
-    RelativeLayout llMousePad = (RelativeLayout) rootView;
+    View appBarMain = ViewBindings.findChildViewById(rootView, R.id.app_bar_main);
+    AppBarMainBinding binding_appBarMain = appBarMain != null
+        ? AppBarMainBinding.bind(appBarMain)
+        : null;
 
-    return new ActivityMainBinding((RelativeLayout) rootView, llMousePad);
+    DrawerLayout drawerLayout = ViewBindings.findChildViewById(rootView, R.id.drawer_layout);
+
+    TabLayout tabLayout = ViewBindings.findChildViewById(rootView, R.id.tab_layout);
+
+    Toolbar toolbar = ViewBindings.findChildViewById(rootView, R.id.toolbar);
+
+    return new ActivityMainBinding((FrameLayout) rootView, activityContainer, binding_appBarMain,
+        drawerLayout, tabLayout, toolbar);
   }
 }

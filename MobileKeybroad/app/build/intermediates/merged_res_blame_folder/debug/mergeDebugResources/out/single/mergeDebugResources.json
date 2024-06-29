@@ -180,6 +180,10 @@
         "source": "com.jollitycn.mobilekeybroad.app-main-75:/mipmap-mdpi/ic_launcher_round.webp"
     },
     {
+        "merged": "com.jollitycn.mobilekeybroad.app-debug-73:/layout_activity_main.xml.flat",
+        "source": "com.jollitycn.mobilekeybroad.app-main-75:/layout/activity_main.xml"
+    },
+    {
         "merged": "com.jollitycn.mobilekeybroad.app-debug-73:/layout_custom_title.xml.flat",
         "source": "com.jollitycn.mobilekeybroad.app-main-75:/layout/custom_title.xml"
     },
@@ -198,6 +202,10 @@
     {
         "merged": "com.jollitycn.mobilekeybroad.app-debug-73:/xml_keyboard_layout.xml.flat",
         "source": "com.jollitycn.mobilekeybroad.app-main-75:/xml/keyboard_layout.xml"
+    },
+    {
+        "merged": "com.jollitycn.mobilekeybroad.app-debug-73:/layout-w600dp_activity_main.xml.flat",
+        "source": "com.jollitycn.mobilekeybroad.app-main-75:/layout-w600dp/activity_main.xml"
     },
     {
         "merged": "com.jollitycn.mobilekeybroad.app-debug-73:/layout_fragment_slideshow.xml.flat",

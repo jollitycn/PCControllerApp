@@ -4,13 +4,13 @@
             "outputFile": "com.jollitycn.mobilekeybroad.app-mergeDebugResources-71:/values-w600dp-v13/values-w600dp-v13.xml",
             "map": [
                 {
-                    "source": "E:\\studio\\project\\audioPlayer\\client\\mobile\\MobileKeybroad\\app\\src\\main\\res\\values-w600dp\\dimens.xml",
+                    "source": "E:\\studio\\project\\PCControllerApp\\MobileKeybroad\\app\\src\\main\\res\\values-w600dp\\dimens.xml",
                     "from": {
                         "startLines": "2,1,3",
                         "startColumns": "4,4,4",
-                        "startOffsets": "76,17,119",
+                        "startOffsets": "74,16,116",
                         "endColumns": "41,57,59",
-                        "endOffsets": "113,70,174"
+                        "endOffsets": "111,69,171"
                     },
                     "to": {
                         "startLines": "2,3,4",

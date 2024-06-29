@@ -8,6 +8,10 @@
         "source": "com.jollitycn.mobilekeybroad.app-main-75:/layout-w600dp/activity_mainbak.xml"
     },
     {
+        "merged": "com.jollitycn.mobilekeybroad.app-mergeDebugResources-72:/layout-w600dp-v13/activity_main.xml",
+        "source": "com.jollitycn.mobilekeybroad.app-main-75:/layout-w600dp/activity_main.xml"
+    },
+    {
         "merged": "com.jollitycn.mobilekeybroad.app-mergeDebugResources-72:/layout-w600dp-v13/content_main.xml",
         "source": "com.jollitycn.mobilekeybroad.app-main-75:/layout-w600dp/content_main.xml"
     },

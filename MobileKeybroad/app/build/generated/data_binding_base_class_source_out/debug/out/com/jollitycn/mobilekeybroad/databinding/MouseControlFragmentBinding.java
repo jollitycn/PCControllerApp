@@ -12,6 +12,7 @@ import androidx.annotation.Nullable;
 import androidx.viewbinding.ViewBinding;
 import androidx.viewbinding.ViewBindings;
 import com.jollitycn.mobilekeybroad.R;
+import com.jollitycn.mobilekeybroad.TouchTrackView;
 import java.lang.NullPointerException;
 import java.lang.Override;
 import java.lang.String;
@@ -41,11 +42,14 @@ public final class MouseControlFragmentBinding implements ViewBinding {
   @NonNull
   public final SeekBar scrollBar;
 
+  @NonNull
+  public final TouchTrackView touchTrackView;
+
   private MouseControlFragmentBinding(@NonNull LinearLayout rootView,
       @NonNull ImageButton leftMouseButton, @NonNull ImageButton moveDownButton,
       @NonNull ImageButton moveLeftButton, @NonNull ImageButton moveRightButton,
       @NonNull ImageButton moveUpButton, @NonNull ImageButton rightMouseButton,
-      @NonNull SeekBar scrollBar) {
+      @NonNull SeekBar scrollBar, @NonNull TouchTrackView touchTrackView) {
     this.rootView = rootView;
     this.leftMouseButton = leftMouseButton;
     this.moveDownButton = moveDownButton;
@@ -54,6 +58,7 @@ public final class MouseControlFragmentBinding implements ViewBinding {
     this.moveUpButton = moveUpButton;
     this.rightMouseButton = rightMouseButton;
     this.scrollBar = scrollBar;
+    this.touchTrackView = touchTrackView;
   }
 
   @Override
@@ -125,9 +130,15 @@ public final class MouseControlFragmentBinding implements ViewBinding {
         break missingId;
       }
 
+      id = R.id.touch_track_view;
+      TouchTrackView touchTrackView = ViewBindings.findChildViewById(rootView, id);
+      if (touchTrackView == null) {
+        break missingId;
+      }
+
       return new MouseControlFragmentBinding((LinearLayout) rootView, leftMouseButton,
           moveDownButton, moveLeftButton, moveRightButton, moveUpButton, rightMouseButton,
-          scrollBar);
+          scrollBar, touchTrackView);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));

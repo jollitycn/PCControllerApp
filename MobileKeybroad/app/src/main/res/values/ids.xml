@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="rightMouseButton" type="id" />
+    <item name="touch_track_view" type="id" />
+    <item name="scrollBar" type="id" />
+    <item name="leftMouseButton" type="id" />
+    <item name="moveRightButton" type="id" />
+    <item name="moveDownButton" type="id" />
+    <item name="moveUpButton" type="id" />
+    <item name="moveLeftButton" type="id" />
+</resources>

@@ -37,6 +37,7 @@ id bottom_nav_view
 id content_main
 id coordinator_layout
 id delete_btn
+id device_name
 id discoverable
 id drawer_layout
 id enter_btn
@@ -50,7 +51,6 @@ id keyboard_grid
 id keyboard_view
 id leftMouseButton
 id left_mouse
-id ll_mouse_pad
 id mobile_navigation
 id mousepad
 id moveDownButton
@@ -65,7 +65,6 @@ id nav_slideshow
 id nav_transform
 id option_scan
 id p_btn
-id pager
 id paired_devices
 id recyclerview_transform
 id rightMouseButton
@@ -83,6 +82,7 @@ id title_left_text
 id title_paired_devices
 id title_right_text
 id toolbar
+id touch_track_view
 layout activity_keybroad
 layout activity_main
 layout activity_mainbak
