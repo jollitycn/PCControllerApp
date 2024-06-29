@@ -1,0 +1,558 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\studio\project\PCControllerApp\MobileKeybroad\app\src\main\AndroidManifest.xml:2:1-72:12
+INJECTED from E:\studio\project\PCControllerApp\MobileKeybroad\app\src\main\AndroidManifest.xml:2:1-72:12
+INJECTED from E:\studio\project\PCControllerApp\MobileKeybroad\app\src\main\AndroidManifest.xml:2:1-72:12
+INJECTED from E:\studio\project\PCControllerApp\MobileKeybroad\app\src\main\AndroidManifest.xml:2:1-72:12
+MERGED from [androidx.databinding:databinding-adapters:8.4.1] D:\Users\jollitycn\.m2\repository\caches\transforms-4\898c7e4fee9d737ed0deebe6cf52ddd4\transformed\databinding-adapters-8.4.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.databinding:databinding-ktx:8.4.1] D:\Users\jollitycn\.m2\repository\caches\transforms-4\191252be40821f206f6125064fa9a61c\transformed\databinding-ktx-8.4.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.databinding:databinding-runtime:8.4.1] D:\Users\jollitycn\.m2\repository\caches\transforms-4\2a10ffa883b5365c75300dc7c82ebfda\transformed\databinding-runtime-8.4.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.databinding:viewbinding:8.4.1] D:\Users\jollitycn\.m2\repository\caches\transforms-4\84a7a212a2fc26ecbf0ff973f3c62ea0\transformed\viewbinding-8.4.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-common:2.6.0] D:\Users\jollitycn\.m2\repository\caches\transforms-4\8de7c39083bcf3ad5264eca73321f790\transformed\navigation-common-2.6.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-runtime:2.6.0] D:\Users\jollitycn\.m2\repository\caches\transforms-4\ab85a4ba29bbdaa93af0568990e65f4e\transformed\navigation-runtime-2.6.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-fragment:2.6.0] D:\Users\jollitycn\.m2\repository\caches\transforms-4\279005140f496259cc35578dde5be3bd\transformed\navigation-fragment-2.6.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-ui:2.6.0] D:\Users\jollitycn\.m2\repository\caches\transforms-4\f648bb3d720cfc1942e2f983889b4785\transformed\navigation-ui-2.6.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.material:material:1.12.0] D:\Users\jollitycn\.m2\repository\caches\transforms-4\56d1aa2b9e7a61317af9c755fef5072e\transformed\material-1.12.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.car.ui:car-ui-lib:2.6.0] D:\Users\jollitycn\.m2\repository\caches\transforms-4\95831122b86d8bc4cdbccda06bfea7ee\transformed\car-ui-lib-2.6.0\AndroidManifest.xml:17:1-51:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] D:\Users\jollitycn\.m2\repository\caches\transforms-4\d64a8f581950fe90d9201b3178f73453\transformed\constraintlayout-2.1.4\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] D:\Users\jollitycn\.m2\repository\caches\transforms-4\f0326ee62b1c1e557cca6a1875ff70fd\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.preference:preference:1.1.1] D:\Users\jollitycn\.m2\repository\caches\transforms-4\e811f5c184ef8e9e89f5fac926746b6c\transformed\preference-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.6.1] D:\Users\jollitycn\.m2\repository\caches\transforms-4\e58379b0d6d68636b77db146f8912b37\transformed\appcompat-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] D:\Users\jollitycn\.m2\repository\caches\transforms-4\172451b23b65c5c0778f4dc23aec2364\transformed\slidingpanelayout-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.material3:material3-android:1.3.0-beta02] D:\Users\jollitycn\.m2\repository\caches\transforms-4\19f8e80a76ff0b3021f7ccc05b61cb7a\transformed\material3-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.material3:material3-adaptive-navigation-suite-android:1.3.0-beta02] D:\Users\jollitycn\.m2\repository\caches\transforms-4\9e45f7818bfbd603f63e329be47dcaa1\transformed\material3-adaptive-navigation-suite-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material3:material3-window-size-class-android:1.3.0-beta02] D:\Users\jollitycn\.m2\repository\caches\transforms-4\3ee4cf7e4f2ede7da7a329ac5ace96ae\transformed\material3-window-size-class-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material3.adaptive:adaptive-android:1.0.0-beta02] D:\Users\jollitycn\.m2\repository\caches\transforms-4\884a1cc18e3a32cbba3f297fe2c39471\transformed\adaptive-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.window:window-core-android:1.3.0-beta02] D:\Users\jollitycn\.m2\repository\caches\transforms-4\d9537580aa006677c6ccb0521240cad7\transformed\window-core-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.window:window:1.3.0-beta02] D:\Users\jollitycn\.m2\repository\caches\transforms-4\4d595a59a4b5ded1a2b1078fb93465bf\transformed\window-1.3.0-beta02\AndroidManifest.xml:17:1-31:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] D:\Users\jollitycn\.m2\repository\caches\transforms-4\a6fd9d9c18851dcafa2927a304ef4323\transformed\viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.6.0] D:\Users\jollitycn\.m2\repository\caches\transforms-4\8af4084d93411daa0e10c52530cd1f5e\transformed\fragment-1.6.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment-ktx:1.6.0] D:\Users\jollitycn\.m2\repository\caches\transforms-4\de176b362c0397bda01008dd45d20e4a\transformed\fragment-ktx-1.6.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.8.2] D:\Users\jollitycn\.m2\repository\caches\transforms-4\126efde2416ce8db2bc943c08a0c3e3a\transformed\activity-1.8.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.material:material-icons-core-android:1.6.0] D:\Users\jollitycn\.m2\repository\caches\transforms-4\65cf4ad9f8c3cdb391a9dce5dabd8c46\transformed\material-icons-core-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-ripple-android:1.7.0-beta02] D:\Users\jollitycn\.m2\repository\caches\transforms-4\372da935f04d16eb69aac90bb5df246a\transformed\material-ripple-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.animation:animation-core-android:1.7.0-beta02] D:\Users\jollitycn\.m2\repository\caches\transforms-4\5bbb0e12d5e9830d2de5126d7bd22413\transformed\animation-core-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.animation:animation-android:1.7.0-beta02] D:\Users\jollitycn\.m2\repository\caches\transforms-4\63ae231c7ffcc4c34e5b1fffea5eb862\transformed\animation-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.7.0-beta02] D:\Users\jollitycn\.m2\repository\caches\transforms-4\abd536fe5d065db1eae92f0c2721a656\transformed\foundation-layout-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.foundation:foundation-android:1.7.0-beta02] D:\Users\jollitycn\.m2\repository\caches\transforms-4\1dd49cdd51a2c49713f9d6f860284c76\transformed\foundation-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-graphics-android:1.7.0-beta02] D:\Users\jollitycn\.m2\repository\caches\transforms-4\d05eccd0d063a6e66cc02ea5aa7fe404\transformed\ui-graphics-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-text-android:1.7.0-beta02] D:\Users\jollitycn\.m2\repository\caches\transforms-4\20990e4d31c6aee3037a8902ebee4304\transformed\ui-text-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-geometry-android:1.7.0-beta02] D:\Users\jollitycn\.m2\repository\caches\transforms-4\a80904ffab1a7f44aeb5344dd5f2d713\transformed\ui-geometry-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-util-android:1.7.0-beta02] D:\Users\jollitycn\.m2\repository\caches\transforms-4\b2838824c545a41bb4c305e992e60b90\transformed\ui-util-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-unit-android:1.7.0-beta02] D:\Users\jollitycn\.m2\repository\caches\transforms-4\098551cba998b246fb6b27a307fb1b3e\transformed\ui-unit-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-android:1.7.0-beta02] D:\Users\jollitycn\.m2\repository\caches\transforms-4\a831b33e376360bb5de29d8f7bbd0b33\transformed\ui-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.activity:activity-ktx:1.8.2] D:\Users\jollitycn\.m2\repository\caches\transforms-4\e3f860d33206064c8907d0daa438d10d\transformed\activity-ktx-1.8.2\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.activity:activity-compose:1.8.2] D:\Users\jollitycn\.m2\repository\caches\transforms-4\3aded07827f5d246d1c07ea6efa0aced\transformed\activity-compose-1.8.2\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.7.0-beta02] D:\Users\jollitycn\.m2\repository\caches\transforms-4\35102d19d7b490e371f5d07563c4b3c7\transformed\runtime-saveable-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.transition:transition:1.5.0] D:\Users\jollitycn\.m2\repository\caches\transforms-4\214c975c050299b0154b1059c255dff1\transformed\transition-1.5.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] D:\Users\jollitycn\.m2\repository\caches\transforms-4\5cf96ee973751614193760b20da808b6\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] D:\Users\jollitycn\.m2\repository\caches\transforms-4\918e549801b7fbda28e92d4ac8b3fffc\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] D:\Users\jollitycn\.m2\repository\caches\transforms-4\1387dc29aaf3fe6925991917265f4ffa\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] D:\Users\jollitycn\.m2\repository\caches\transforms-4\9f2b9b26cca5aab6b2686e7e34822d0e\transformed\emoji2-views-helper-1.3.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.3.0] D:\Users\jollitycn\.m2\repository\caches\transforms-4\8e4a25dd55af5790f7edcb1aad870e43\transformed\emoji2-1.3.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.recyclerview:recyclerview:1.3.0] D:\Users\jollitycn\.m2\repository\caches\transforms-4\d2ee2da1952771807a850e532a625ebb\transformed\recyclerview-1.3.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] D:\Users\jollitycn\.m2\repository\caches\transforms-4\fe9d1073f5cfce3b284112d8b69134c5\transformed\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] D:\Users\jollitycn\.m2\repository\caches\transforms-4\41562844314ded529c816790eff50ed1\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] D:\Users\jollitycn\.m2\repository\caches\transforms-4\d613b797ca945ac2ae59c4749345c311\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.1.0] D:\Users\jollitycn\.m2\repository\caches\transforms-4\04482a51a85d66214aab628809da6a85\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] D:\Users\jollitycn\.m2\repository\caches\transforms-4\166ab1b355868cd37afc18a61392a720\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] D:\Users\jollitycn\.m2\repository\caches\transforms-4\79c690b95d17c314b265e39d5107c185\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] D:\Users\jollitycn\.m2\repository\caches\transforms-4\395972793e47d5e8d647660dea5f1533\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.core:core-ktx:1.13.1] D:\Users\jollitycn\.m2\repository\caches\transforms-4\20bed302461d7b44e80fc40058f3cc58\transformed\core-ktx-1.13.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.autofill:autofill:1.0.0] D:\Users\jollitycn\.m2\repository\caches\transforms-4\04a78c63670ceb45430f22a6fd2a2272\transformed\autofill-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.graphics:graphics-path:1.0.1] D:\Users\jollitycn\.m2\repository\caches\transforms-4\83580a0f57f3747601d157d760a8afc7\transformed\graphics-path-1.0.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.core:core:1.13.1] D:\Users\jollitycn\.m2\repository\caches\transforms-4\9351c1098fe2089716595b0ad3967dd7\transformed\core-1.13.1\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] D:\Users\jollitycn\.m2\repository\caches\transforms-4\ad49d9b75964193ec15ed60834104482\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] D:\Users\jollitycn\.m2\repository\caches\transforms-4\5580a30a3865e1e06f7fc8a33e931e11\transformed\savedstate-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.8.0] D:\Users\jollitycn\.m2\repository\caches\transforms-4\e6434be316be4d749cdc745e1b24d799\transformed\lifecycle-viewmodel-2.8.0\AndroidManifest.xml:2:1-5:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.0] D:\Users\jollitycn\.m2\repository\caches\transforms-4\f80bfc7b311d69f043377132b94b1a5d\transformed\lifecycle-viewmodel-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.8.0] D:\Users\jollitycn\.m2\repository\caches\transforms-4\fed3db4a68609f17e2e29227f26a742a\transformed\lifecycle-runtime-ktx-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.8.0] D:\Users\jollitycn\.m2\repository\caches\transforms-4\cfca2934d8976533e454f984336f3bf6\transformed\lifecycle-runtime-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.0] D:\Users\jollitycn\.m2\repository\caches\transforms-4\0aeb8a6ee666cfc0f39928fc0e760354\transformed\lifecycle-viewmodel-savedstate-2.8.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.0] D:\Users\jollitycn\.m2\repository\caches\transforms-4\38855821566de4b65ca1ec4e2d5d22b5\transformed\lifecycle-viewmodel-ktx-2.8.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.8.0] D:\Users\jollitycn\.m2\repository\caches\transforms-4\c773692ce36dddcf823e4880a0879fba\transformed\lifecycle-service-2.8.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.0] D:\Users\jollitycn\.m2\repository\caches\transforms-4\49479badc5cfa6ff4c375d35a68fb191\transformed\lifecycle-process-2.8.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.8.0] D:\Users\jollitycn\.m2\repository\caches\transforms-4\f951cfda438d7aa58194ad52fdfc1554\transformed\lifecycle-livedata-ktx-2.8.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.8.0] D:\Users\jollitycn\.m2\repository\caches\transforms-4\d3b71c052de3738d3ece49746ffbecf2\transformed\lifecycle-livedata-core-ktx-2.8.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.0] D:\Users\jollitycn\.m2\repository\caches\transforms-4\cb51e1f845e410043ecde25e32d66d6c\transformed\lifecycle-livedata-core-2.8.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.8.0] D:\Users\jollitycn\.m2\repository\caches\transforms-4\15b2f7b5d3f12c64ab9e361640fdaaae\transformed\lifecycle-livedata-2.8.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-compose-android:2.8.0] D:\Users\jollitycn\.m2\repository\caches\transforms-4\6283580ff5bd0f6f33959eb7452f69dd\transformed\lifecycle-runtime-compose-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.runtime:runtime-android:1.7.0-beta02] D:\Users\jollitycn\.m2\repository\caches\transforms-4\7587149e1ec555193ec1cbf849f4e597\transformed\runtime-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] D:\Users\jollitycn\.m2\repository\caches\transforms-4\6753898e83c4783e074cb48f675961c9\transformed\annotation-experimental-1.4.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] D:\Users\jollitycn\.m2\repository\caches\transforms-4\d3ce82b866044329fd504e5bfa511a5a\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.window.extensions.core:core:1.0.0] D:\Users\jollitycn\.m2\repository\caches\transforms-4\b594eb04e67f6ce91a116e3a9388f20e\transformed\core-1.0.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] D:\Users\jollitycn\.m2\repository\caches\transforms-4\19bd525e46c94e6d47d784e81ef789e9\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] D:\Users\jollitycn\.m2\repository\caches\transforms-4\b01020e669342201a0599c75f5c543d0\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] D:\Users\jollitycn\.m2\repository\caches\transforms-4\cca6e9e67a357498b0fdaed8882ec9bc\transformed\profileinstaller-1.3.1\AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] D:\Users\jollitycn\.m2\repository\caches\transforms-4\e4229311fa37052d5103b9c8be1f507d\transformed\startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] D:\Users\jollitycn\.m2\repository\caches\transforms-4\1651979d06a8a36693dc31279252308c\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.tracing:tracing:1.0.0] D:\Users\jollitycn\.m2\repository\caches\transforms-4\12fa3a159c4922d2f55a45a1236dbd3c\transformed\tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] D:\Users\jollitycn\.m2\repository\caches\transforms-4\cbf1dc5cfa4fc4940b1f028201feef6c\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] D:\Users\jollitycn\.m2\repository\caches\transforms-4\041b119a1dd8cb8e7f09e8acf2f3c0d9\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] D:\Users\jollitycn\.m2\repository\caches\transforms-4\b4ad08b51ae90731d1ca860a741dac18\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] D:\Users\jollitycn\.m2\repository\caches\transforms-4\22c32fac4990167bb2b13d48d2ca7c77\transformed\core-runtime-2.2.0\AndroidManifest.xml:17:1-22:12
+	package
+		INJECTED from E:\studio\project\PCControllerApp\MobileKeybroad\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\studio\project\PCControllerApp\MobileKeybroad\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from E:\studio\project\PCControllerApp\MobileKeybroad\app\src\main\AndroidManifest.xml:3:11-57
+	android:versionCode
+		INJECTED from E:\studio\project\PCControllerApp\MobileKeybroad\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\studio\project\PCControllerApp\MobileKeybroad\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.BLUETOOTH
+ADDED from E:\studio\project\PCControllerApp\MobileKeybroad\app\src\main\AndroidManifest.xml:5:5-68
+	android:name
+		ADDED from E:\studio\project\PCControllerApp\MobileKeybroad\app\src\main\AndroidManifest.xml:5:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from E:\studio\project\PCControllerApp\MobileKeybroad\app\src\main\AndroidManifest.xml:6:5-74
+	android:name
+		ADDED from E:\studio\project\PCControllerApp\MobileKeybroad\app\src\main\AndroidManifest.xml:6:22-71
+uses-permission#android.permission.BLUETOOTH_ADVERTISE
+ADDED from E:\studio\project\PCControllerApp\MobileKeybroad\app\src\main\AndroidManifest.xml:7:5-78
+	android:name
+		ADDED from E:\studio\project\PCControllerApp\MobileKeybroad\app\src\main\AndroidManifest.xml:7:22-75
+uses-permission#android.permission.BLUETOOTH_CONNECT
+ADDED from E:\studio\project\PCControllerApp\MobileKeybroad\app\src\main\AndroidManifest.xml:8:5-76
+	android:name
+		ADDED from E:\studio\project\PCControllerApp\MobileKeybroad\app\src\main\AndroidManifest.xml:8:22-73
+uses-permission#android.permission.BLUETOOTH_SCAN
+ADDED from E:\studio\project\PCControllerApp\MobileKeybroad\app\src\main\AndroidManifest.xml:9:5-73
+	android:name
+		ADDED from E:\studio\project\PCControllerApp\MobileKeybroad\app\src\main\AndroidManifest.xml:9:22-70
+uses-permission#android.permission.BLUETOOTH_PRIVILEGED
+ADDED from E:\studio\project\PCControllerApp\MobileKeybroad\app\src\main\AndroidManifest.xml:10:5-114
+	tools:ignore
+		ADDED from E:\studio\project\PCControllerApp\MobileKeybroad\app\src\main\AndroidManifest.xml:10:77-112
+	android:name
+		ADDED from E:\studio\project\PCControllerApp\MobileKeybroad\app\src\main\AndroidManifest.xml:10:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from E:\studio\project\PCControllerApp\MobileKeybroad\app\src\main\AndroidManifest.xml:11:5-68
+	android:name
+		ADDED from E:\studio\project\PCControllerApp\MobileKeybroad\app\src\main\AndroidManifest.xml:11:22-65
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from E:\studio\project\PCControllerApp\MobileKeybroad\app\src\main\AndroidManifest.xml:12:5-77
+	android:name
+		ADDED from E:\studio\project\PCControllerApp\MobileKeybroad\app\src\main\AndroidManifest.xml:12:22-74
+uses-permission#android.permission.MANAGE_DEVICE_POLICY_BLUETOOTH
+ADDED from E:\studio\project\PCControllerApp\MobileKeybroad\app\src\main\AndroidManifest.xml:13:5-89
+	android:name
+		ADDED from E:\studio\project\PCControllerApp\MobileKeybroad\app\src\main\AndroidManifest.xml:13:22-86
+uses-feature#android.hardware.bluetooth_le
+ADDED from E:\studio\project\PCControllerApp\MobileKeybroad\app\src\main\AndroidManifest.xml:14:5-89
+	android:required
+		ADDED from E:\studio\project\PCControllerApp\MobileKeybroad\app\src\main\AndroidManifest.xml:14:64-87
+	android:name
+		ADDED from E:\studio\project\PCControllerApp\MobileKeybroad\app\src\main\AndroidManifest.xml:14:19-63
+uses-feature#android.hardware.bluetooth
+ADDED from E:\studio\project\PCControllerApp\MobileKeybroad\app\src\main\AndroidManifest.xml:20:5-87
+	android:required
+		ADDED from E:\studio\project\PCControllerApp\MobileKeybroad\app\src\main\AndroidManifest.xml:20:61-84
+	android:name
+		ADDED from E:\studio\project\PCControllerApp\MobileKeybroad\app\src\main\AndroidManifest.xml:20:19-60
+application
+ADDED from E:\studio\project\PCControllerApp\MobileKeybroad\app\src\main\AndroidManifest.xml:21:5-70:19
+INJECTED from E:\studio\project\PCControllerApp\MobileKeybroad\app\src\main\AndroidManifest.xml:21:5-70:19
+MERGED from [com.google.android.material:material:1.12.0] D:\Users\jollitycn\.m2\repository\caches\transforms-4\56d1aa2b9e7a61317af9c755fef5072e\transformed\material-1.12.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.12.0] D:\Users\jollitycn\.m2\repository\caches\transforms-4\56d1aa2b9e7a61317af9c755fef5072e\transformed\material-1.12.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.car.ui:car-ui-lib:2.6.0] D:\Users\jollitycn\.m2\repository\caches\transforms-4\95831122b86d8bc4cdbccda06bfea7ee\transformed\car-ui-lib-2.6.0\AndroidManifest.xml:36:5-49:19
+MERGED from [com.android.car.ui:car-ui-lib:2.6.0] D:\Users\jollitycn\.m2\repository\caches\transforms-4\95831122b86d8bc4cdbccda06bfea7ee\transformed\car-ui-lib-2.6.0\AndroidManifest.xml:36:5-49:19
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] D:\Users\jollitycn\.m2\repository\caches\transforms-4\d64a8f581950fe90d9201b3178f73453\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] D:\Users\jollitycn\.m2\repository\caches\transforms-4\d64a8f581950fe90d9201b3178f73453\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.window:window:1.3.0-beta02] D:\Users\jollitycn\.m2\repository\caches\transforms-4\4d595a59a4b5ded1a2b1078fb93465bf\transformed\window-1.3.0-beta02\AndroidManifest.xml:22:5-29:19
+MERGED from [androidx.window:window:1.3.0-beta02] D:\Users\jollitycn\.m2\repository\caches\transforms-4\4d595a59a4b5ded1a2b1078fb93465bf\transformed\window-1.3.0-beta02\AndroidManifest.xml:22:5-29:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] D:\Users\jollitycn\.m2\repository\caches\transforms-4\8e4a25dd55af5790f7edcb1aad870e43\transformed\emoji2-1.3.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] D:\Users\jollitycn\.m2\repository\caches\transforms-4\8e4a25dd55af5790f7edcb1aad870e43\transformed\emoji2-1.3.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.13.1] D:\Users\jollitycn\.m2\repository\caches\transforms-4\9351c1098fe2089716595b0ad3967dd7\transformed\core-1.13.1\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.13.1] D:\Users\jollitycn\.m2\repository\caches\transforms-4\9351c1098fe2089716595b0ad3967dd7\transformed\core-1.13.1\AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.0] D:\Users\jollitycn\.m2\repository\caches\transforms-4\49479badc5cfa6ff4c375d35a68fb191\transformed\lifecycle-process-2.8.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.0] D:\Users\jollitycn\.m2\repository\caches\transforms-4\49479badc5cfa6ff4c375d35a68fb191\transformed\lifecycle-process-2.8.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] D:\Users\jollitycn\.m2\repository\caches\transforms-4\d3ce82b866044329fd504e5bfa511a5a\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] D:\Users\jollitycn\.m2\repository\caches\transforms-4\d3ce82b866044329fd504e5bfa511a5a\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] D:\Users\jollitycn\.m2\repository\caches\transforms-4\cca6e9e67a357498b0fdaed8882ec9bc\transformed\profileinstaller-1.3.1\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] D:\Users\jollitycn\.m2\repository\caches\transforms-4\cca6e9e67a357498b0fdaed8882ec9bc\transformed\profileinstaller-1.3.1\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] D:\Users\jollitycn\.m2\repository\caches\transforms-4\e4229311fa37052d5103b9c8be1f507d\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] D:\Users\jollitycn\.m2\repository\caches\transforms-4\e4229311fa37052d5103b9c8be1f507d\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+	android:extractNativeLibs
+		INJECTED from E:\studio\project\PCControllerApp\MobileKeybroad\app\src\main\AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.13.1] D:\Users\jollitycn\.m2\repository\caches\transforms-4\9351c1098fe2089716595b0ad3967dd7\transformed\core-1.13.1\AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from E:\studio\project\PCControllerApp\MobileKeybroad\app\src\main\AndroidManifest.xml:28:13-39
+	android:label
+		ADDED from E:\studio\project\PCControllerApp\MobileKeybroad\app\src\main\AndroidManifest.xml:26:13-45
+	android:fullBackupContent
+		ADDED from E:\studio\project\PCControllerApp\MobileKeybroad\app\src\main\AndroidManifest.xml:24:13-58
+	android:roundIcon
+		ADDED from E:\studio\project\PCControllerApp\MobileKeybroad\app\src\main\AndroidManifest.xml:27:13-58
+	tools:targetApi
+		ADDED from E:\studio\project\PCControllerApp\MobileKeybroad\app\src\main\AndroidManifest.xml:30:13-33
+	android:icon
+		ADDED from E:\studio\project\PCControllerApp\MobileKeybroad\app\src\main\AndroidManifest.xml:25:13-47
+	android:allowBackup
+		ADDED from E:\studio\project\PCControllerApp\MobileKeybroad\app\src\main\AndroidManifest.xml:22:13-39
+	android:theme
+		ADDED from E:\studio\project\PCControllerApp\MobileKeybroad\app\src\main\AndroidManifest.xml:29:9-40
+	android:dataExtractionRules
+		ADDED from E:\studio\project\PCControllerApp\MobileKeybroad\app\src\main\AndroidManifest.xml:23:13-69
+activity#com.jollitycn.mobilekeybroad.MainActivity
+ADDED from E:\studio\project\PCControllerApp\MobileKeybroad\app\src\main\AndroidManifest.xml:31:13-39:24
+	android:exported
+		ADDED from E:\studio\project\PCControllerApp\MobileKeybroad\app\src\main\AndroidManifest.xml:33:17-40
+	android:name
+		ADDED from E:\studio\project\PCControllerApp\MobileKeybroad\app\src\main\AndroidManifest.xml:32:17-45
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\studio\project\PCControllerApp\MobileKeybroad\app\src\main\AndroidManifest.xml:35:17-38:33
+action#android.intent.action.MAIN
+ADDED from E:\studio\project\PCControllerApp\MobileKeybroad\app\src\main\AndroidManifest.xml:36:21-73
+	android:name
+		ADDED from E:\studio\project\PCControllerApp\MobileKeybroad\app\src\main\AndroidManifest.xml:36:29-70
+category#android.intent.category.LAUNCHER
+ADDED from E:\studio\project\PCControllerApp\MobileKeybroad\app\src\main\AndroidManifest.xml:37:21-81
+	android:name
+		ADDED from E:\studio\project\PCControllerApp\MobileKeybroad\app\src\main\AndroidManifest.xml:37:31-78
+activity#com.jollitycn.mobilekeybroad.KeyboardActivity
+ADDED from E:\studio\project\PCControllerApp\MobileKeybroad\app\src\main\AndroidManifest.xml:61:9-66:16
+	android:screenOrientation
+		ADDED from E:\studio\project\PCControllerApp\MobileKeybroad\app\src\main\AndroidManifest.xml:62:9-46
+	tools:ignore
+		ADDED from E:\studio\project\PCControllerApp\MobileKeybroad\app\src\main\AndroidManifest.xml:63:13-42
+	android:name
+		ADDED from E:\studio\project\PCControllerApp\MobileKeybroad\app\src\main\AndroidManifest.xml:61:19-51
+service#com.jollitycn.mobilekeybroad.bluetooth.BluetoothConnectService
+ADDED from E:\studio\project\PCControllerApp\MobileKeybroad\app\src\main\AndroidManifest.xml:66:17-67:33
+	android:enabled
+		ADDED from E:\studio\project\PCControllerApp\MobileKeybroad\app\src\main\AndroidManifest.xml:67:9-31
+	android:name
+		ADDED from E:\studio\project\PCControllerApp\MobileKeybroad\app\src\main\AndroidManifest.xml:66:26-103
+service#com.jollitycn.mobilekeybroad.bluetooth.BluetoothHidMouseService
+ADDED from E:\studio\project\PCControllerApp\MobileKeybroad\app\src\main\AndroidManifest.xml:68:9-69:37
+	android:enabled
+		ADDED from E:\studio\project\PCControllerApp\MobileKeybroad\app\src\main\AndroidManifest.xml:69:13-35
+	android:name
+		ADDED from E:\studio\project\PCControllerApp\MobileKeybroad\app\src\main\AndroidManifest.xml:68:18-96
+uses-sdk
+INJECTED from E:\studio\project\PCControllerApp\MobileKeybroad\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\studio\project\PCControllerApp\MobileKeybroad\app\src\main\AndroidManifest.xml
+INJECTED from E:\studio\project\PCControllerApp\MobileKeybroad\app\src\main\AndroidManifest.xml
+MERGED from [androidx.databinding:databinding-adapters:8.4.1] D:\Users\jollitycn\.m2\repository\caches\transforms-4\898c7e4fee9d737ed0deebe6cf52ddd4\transformed\databinding-adapters-8.4.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:databinding-adapters:8.4.1] D:\Users\jollitycn\.m2\repository\caches\transforms-4\898c7e4fee9d737ed0deebe6cf52ddd4\transformed\databinding-adapters-8.4.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:databinding-ktx:8.4.1] D:\Users\jollitycn\.m2\repository\caches\transforms-4\191252be40821f206f6125064fa9a61c\transformed\databinding-ktx-8.4.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:databinding-ktx:8.4.1] D:\Users\jollitycn\.m2\repository\caches\transforms-4\191252be40821f206f6125064fa9a61c\transformed\databinding-ktx-8.4.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:databinding-runtime:8.4.1] D:\Users\jollitycn\.m2\repository\caches\transforms-4\2a10ffa883b5365c75300dc7c82ebfda\transformed\databinding-runtime-8.4.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:databinding-runtime:8.4.1] D:\Users\jollitycn\.m2\repository\caches\transforms-4\2a10ffa883b5365c75300dc7c82ebfda\transformed\databinding-runtime-8.4.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:viewbinding:8.4.1] D:\Users\jollitycn\.m2\repository\caches\transforms-4\84a7a212a2fc26ecbf0ff973f3c62ea0\transformed\viewbinding-8.4.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:viewbinding:8.4.1] D:\Users\jollitycn\.m2\repository\caches\transforms-4\84a7a212a2fc26ecbf0ff973f3c62ea0\transformed\viewbinding-8.4.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-common:2.6.0] D:\Users\jollitycn\.m2\repository\caches\transforms-4\8de7c39083bcf3ad5264eca73321f790\transformed\navigation-common-2.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common:2.6.0] D:\Users\jollitycn\.m2\repository\caches\transforms-4\8de7c39083bcf3ad5264eca73321f790\transformed\navigation-common-2.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.6.0] D:\Users\jollitycn\.m2\repository\caches\transforms-4\ab85a4ba29bbdaa93af0568990e65f4e\transformed\navigation-runtime-2.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.6.0] D:\Users\jollitycn\.m2\repository\caches\transforms-4\ab85a4ba29bbdaa93af0568990e65f4e\transformed\navigation-runtime-2.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-fragment:2.6.0] D:\Users\jollitycn\.m2\repository\caches\transforms-4\279005140f496259cc35578dde5be3bd\transformed\navigation-fragment-2.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-fragment:2.6.0] D:\Users\jollitycn\.m2\repository\caches\transforms-4\279005140f496259cc35578dde5be3bd\transformed\navigation-fragment-2.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-ui:2.6.0] D:\Users\jollitycn\.m2\repository\caches\transforms-4\f648bb3d720cfc1942e2f983889b4785\transformed\navigation-ui-2.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-ui:2.6.0] D:\Users\jollitycn\.m2\repository\caches\transforms-4\f648bb3d720cfc1942e2f983889b4785\transformed\navigation-ui-2.6.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.12.0] D:\Users\jollitycn\.m2\repository\caches\transforms-4\56d1aa2b9e7a61317af9c755fef5072e\transformed\material-1.12.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.12.0] D:\Users\jollitycn\.m2\repository\caches\transforms-4\56d1aa2b9e7a61317af9c755fef5072e\transformed\material-1.12.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.car.ui:car-ui-lib:2.6.0] D:\Users\jollitycn\.m2\repository\caches\transforms-4\95831122b86d8bc4cdbccda06bfea7ee\transformed\car-ui-lib-2.6.0\AndroidManifest.xml:21:5-44
+MERGED from [com.android.car.ui:car-ui-lib:2.6.0] D:\Users\jollitycn\.m2\repository\caches\transforms-4\95831122b86d8bc4cdbccda06bfea7ee\transformed\car-ui-lib-2.6.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] D:\Users\jollitycn\.m2\repository\caches\transforms-4\d64a8f581950fe90d9201b3178f73453\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] D:\Users\jollitycn\.m2\repository\caches\transforms-4\d64a8f581950fe90d9201b3178f73453\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] D:\Users\jollitycn\.m2\repository\caches\transforms-4\f0326ee62b1c1e557cca6a1875ff70fd\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] D:\Users\jollitycn\.m2\repository\caches\transforms-4\f0326ee62b1c1e557cca6a1875ff70fd\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.preference:preference:1.1.1] D:\Users\jollitycn\.m2\repository\caches\transforms-4\e811f5c184ef8e9e89f5fac926746b6c\transformed\preference-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.preference:preference:1.1.1] D:\Users\jollitycn\.m2\repository\caches\transforms-4\e811f5c184ef8e9e89f5fac926746b6c\transformed\preference-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.6.1] D:\Users\jollitycn\.m2\repository\caches\transforms-4\e58379b0d6d68636b77db146f8912b37\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] D:\Users\jollitycn\.m2\repository\caches\transforms-4\e58379b0d6d68636b77db146f8912b37\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] D:\Users\jollitycn\.m2\repository\caches\transforms-4\172451b23b65c5c0778f4dc23aec2364\transformed\slidingpanelayout-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] D:\Users\jollitycn\.m2\repository\caches\transforms-4\172451b23b65c5c0778f4dc23aec2364\transformed\slidingpanelayout-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.material3:material3-android:1.3.0-beta02] D:\Users\jollitycn\.m2\repository\caches\transforms-4\19f8e80a76ff0b3021f7ccc05b61cb7a\transformed\material3-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material3:material3-android:1.3.0-beta02] D:\Users\jollitycn\.m2\repository\caches\transforms-4\19f8e80a76ff0b3021f7ccc05b61cb7a\transformed\material3-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material3:material3-adaptive-navigation-suite-android:1.3.0-beta02] D:\Users\jollitycn\.m2\repository\caches\transforms-4\9e45f7818bfbd603f63e329be47dcaa1\transformed\material3-adaptive-navigation-suite-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material3:material3-adaptive-navigation-suite-android:1.3.0-beta02] D:\Users\jollitycn\.m2\repository\caches\transforms-4\9e45f7818bfbd603f63e329be47dcaa1\transformed\material3-adaptive-navigation-suite-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material3:material3-window-size-class-android:1.3.0-beta02] D:\Users\jollitycn\.m2\repository\caches\transforms-4\3ee4cf7e4f2ede7da7a329ac5ace96ae\transformed\material3-window-size-class-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material3:material3-window-size-class-android:1.3.0-beta02] D:\Users\jollitycn\.m2\repository\caches\transforms-4\3ee4cf7e4f2ede7da7a329ac5ace96ae\transformed\material3-window-size-class-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material3.adaptive:adaptive-android:1.0.0-beta02] D:\Users\jollitycn\.m2\repository\caches\transforms-4\884a1cc18e3a32cbba3f297fe2c39471\transformed\adaptive-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material3.adaptive:adaptive-android:1.0.0-beta02] D:\Users\jollitycn\.m2\repository\caches\transforms-4\884a1cc18e3a32cbba3f297fe2c39471\transformed\adaptive-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.window:window-core-android:1.3.0-beta02] D:\Users\jollitycn\.m2\repository\caches\transforms-4\d9537580aa006677c6ccb0521240cad7\transformed\window-core-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.window:window-core-android:1.3.0-beta02] D:\Users\jollitycn\.m2\repository\caches\transforms-4\d9537580aa006677c6ccb0521240cad7\transformed\window-core-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.window:window:1.3.0-beta02] D:\Users\jollitycn\.m2\repository\caches\transforms-4\4d595a59a4b5ded1a2b1078fb93465bf\transformed\window-1.3.0-beta02\AndroidManifest.xml:20:5-44
+MERGED from [androidx.window:window:1.3.0-beta02] D:\Users\jollitycn\.m2\repository\caches\transforms-4\4d595a59a4b5ded1a2b1078fb93465bf\transformed\window-1.3.0-beta02\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] D:\Users\jollitycn\.m2\repository\caches\transforms-4\a6fd9d9c18851dcafa2927a304ef4323\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] D:\Users\jollitycn\.m2\repository\caches\transforms-4\a6fd9d9c18851dcafa2927a304ef4323\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.6.0] D:\Users\jollitycn\.m2\repository\caches\transforms-4\8af4084d93411daa0e10c52530cd1f5e\transformed\fragment-1.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.6.0] D:\Users\jollitycn\.m2\repository\caches\transforms-4\8af4084d93411daa0e10c52530cd1f5e\transformed\fragment-1.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment-ktx:1.6.0] D:\Users\jollitycn\.m2\repository\caches\transforms-4\de176b362c0397bda01008dd45d20e4a\transformed\fragment-ktx-1.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment-ktx:1.6.0] D:\Users\jollitycn\.m2\repository\caches\transforms-4\de176b362c0397bda01008dd45d20e4a\transformed\fragment-ktx-1.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.8.2] D:\Users\jollitycn\.m2\repository\caches\transforms-4\126efde2416ce8db2bc943c08a0c3e3a\transformed\activity-1.8.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.8.2] D:\Users\jollitycn\.m2\repository\caches\transforms-4\126efde2416ce8db2bc943c08a0c3e3a\transformed\activity-1.8.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material:material-icons-core-android:1.6.0] D:\Users\jollitycn\.m2\repository\caches\transforms-4\65cf4ad9f8c3cdb391a9dce5dabd8c46\transformed\material-icons-core-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-core-android:1.6.0] D:\Users\jollitycn\.m2\repository\caches\transforms-4\65cf4ad9f8c3cdb391a9dce5dabd8c46\transformed\material-icons-core-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-ripple-android:1.7.0-beta02] D:\Users\jollitycn\.m2\repository\caches\transforms-4\372da935f04d16eb69aac90bb5df246a\transformed\material-ripple-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-ripple-android:1.7.0-beta02] D:\Users\jollitycn\.m2\repository\caches\transforms-4\372da935f04d16eb69aac90bb5df246a\transformed\material-ripple-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.7.0-beta02] D:\Users\jollitycn\.m2\repository\caches\transforms-4\5bbb0e12d5e9830d2de5126d7bd22413\transformed\animation-core-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.7.0-beta02] D:\Users\jollitycn\.m2\repository\caches\transforms-4\5bbb0e12d5e9830d2de5126d7bd22413\transformed\animation-core-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-android:1.7.0-beta02] D:\Users\jollitycn\.m2\repository\caches\transforms-4\63ae231c7ffcc4c34e5b1fffea5eb862\transformed\animation-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-android:1.7.0-beta02] D:\Users\jollitycn\.m2\repository\caches\transforms-4\63ae231c7ffcc4c34e5b1fffea5eb862\transformed\animation-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.7.0-beta02] D:\Users\jollitycn\.m2\repository\caches\transforms-4\abd536fe5d065db1eae92f0c2721a656\transformed\foundation-layout-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.7.0-beta02] D:\Users\jollitycn\.m2\repository\caches\transforms-4\abd536fe5d065db1eae92f0c2721a656\transformed\foundation-layout-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.7.0-beta02] D:\Users\jollitycn\.m2\repository\caches\transforms-4\1dd49cdd51a2c49713f9d6f860284c76\transformed\foundation-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.7.0-beta02] D:\Users\jollitycn\.m2\repository\caches\transforms-4\1dd49cdd51a2c49713f9d6f860284c76\transformed\foundation-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.7.0-beta02] D:\Users\jollitycn\.m2\repository\caches\transforms-4\d05eccd0d063a6e66cc02ea5aa7fe404\transformed\ui-graphics-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.7.0-beta02] D:\Users\jollitycn\.m2\repository\caches\transforms-4\d05eccd0d063a6e66cc02ea5aa7fe404\transformed\ui-graphics-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.7.0-beta02] D:\Users\jollitycn\.m2\repository\caches\transforms-4\20990e4d31c6aee3037a8902ebee4304\transformed\ui-text-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.7.0-beta02] D:\Users\jollitycn\.m2\repository\caches\transforms-4\20990e4d31c6aee3037a8902ebee4304\transformed\ui-text-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.7.0-beta02] D:\Users\jollitycn\.m2\repository\caches\transforms-4\a80904ffab1a7f44aeb5344dd5f2d713\transformed\ui-geometry-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.7.0-beta02] D:\Users\jollitycn\.m2\repository\caches\transforms-4\a80904ffab1a7f44aeb5344dd5f2d713\transformed\ui-geometry-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.7.0-beta02] D:\Users\jollitycn\.m2\repository\caches\transforms-4\b2838824c545a41bb4c305e992e60b90\transformed\ui-util-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.7.0-beta02] D:\Users\jollitycn\.m2\repository\caches\transforms-4\b2838824c545a41bb4c305e992e60b90\transformed\ui-util-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.7.0-beta02] D:\Users\jollitycn\.m2\repository\caches\transforms-4\098551cba998b246fb6b27a307fb1b3e\transformed\ui-unit-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.7.0-beta02] D:\Users\jollitycn\.m2\repository\caches\transforms-4\098551cba998b246fb6b27a307fb1b3e\transformed\ui-unit-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-android:1.7.0-beta02] D:\Users\jollitycn\.m2\repository\caches\transforms-4\a831b33e376360bb5de29d8f7bbd0b33\transformed\ui-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-android:1.7.0-beta02] D:\Users\jollitycn\.m2\repository\caches\transforms-4\a831b33e376360bb5de29d8f7bbd0b33\transformed\ui-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.8.2] D:\Users\jollitycn\.m2\repository\caches\transforms-4\e3f860d33206064c8907d0daa438d10d\transformed\activity-ktx-1.8.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.8.2] D:\Users\jollitycn\.m2\repository\caches\transforms-4\e3f860d33206064c8907d0daa438d10d\transformed\activity-ktx-1.8.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-compose:1.8.2] D:\Users\jollitycn\.m2\repository\caches\transforms-4\3aded07827f5d246d1c07ea6efa0aced\transformed\activity-compose-1.8.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-compose:1.8.2] D:\Users\jollitycn\.m2\repository\caches\transforms-4\3aded07827f5d246d1c07ea6efa0aced\transformed\activity-compose-1.8.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.7.0-beta02] D:\Users\jollitycn\.m2\repository\caches\transforms-4\35102d19d7b490e371f5d07563c4b3c7\transformed\runtime-saveable-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.7.0-beta02] D:\Users\jollitycn\.m2\repository\caches\transforms-4\35102d19d7b490e371f5d07563c4b3c7\transformed\runtime-saveable-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.transition:transition:1.5.0] D:\Users\jollitycn\.m2\repository\caches\transforms-4\214c975c050299b0154b1059c255dff1\transformed\transition-1.5.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.transition:transition:1.5.0] D:\Users\jollitycn\.m2\repository\caches\transforms-4\214c975c050299b0154b1059c255dff1\transformed\transition-1.5.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] D:\Users\jollitycn\.m2\repository\caches\transforms-4\5cf96ee973751614193760b20da808b6\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] D:\Users\jollitycn\.m2\repository\caches\transforms-4\5cf96ee973751614193760b20da808b6\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] D:\Users\jollitycn\.m2\repository\caches\transforms-4\918e549801b7fbda28e92d4ac8b3fffc\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] D:\Users\jollitycn\.m2\repository\caches\transforms-4\918e549801b7fbda28e92d4ac8b3fffc\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] D:\Users\jollitycn\.m2\repository\caches\transforms-4\1387dc29aaf3fe6925991917265f4ffa\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] D:\Users\jollitycn\.m2\repository\caches\transforms-4\1387dc29aaf3fe6925991917265f4ffa\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] D:\Users\jollitycn\.m2\repository\caches\transforms-4\9f2b9b26cca5aab6b2686e7e34822d0e\transformed\emoji2-views-helper-1.3.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] D:\Users\jollitycn\.m2\repository\caches\transforms-4\9f2b9b26cca5aab6b2686e7e34822d0e\transformed\emoji2-views-helper-1.3.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] D:\Users\jollitycn\.m2\repository\caches\transforms-4\8e4a25dd55af5790f7edcb1aad870e43\transformed\emoji2-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] D:\Users\jollitycn\.m2\repository\caches\transforms-4\8e4a25dd55af5790f7edcb1aad870e43\transformed\emoji2-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.3.0] D:\Users\jollitycn\.m2\repository\caches\transforms-4\d2ee2da1952771807a850e532a625ebb\transformed\recyclerview-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.3.0] D:\Users\jollitycn\.m2\repository\caches\transforms-4\d2ee2da1952771807a850e532a625ebb\transformed\recyclerview-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] D:\Users\jollitycn\.m2\repository\caches\transforms-4\fe9d1073f5cfce3b284112d8b69134c5\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] D:\Users\jollitycn\.m2\repository\caches\transforms-4\fe9d1073f5cfce3b284112d8b69134c5\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] D:\Users\jollitycn\.m2\repository\caches\transforms-4\41562844314ded529c816790eff50ed1\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] D:\Users\jollitycn\.m2\repository\caches\transforms-4\41562844314ded529c816790eff50ed1\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] D:\Users\jollitycn\.m2\repository\caches\transforms-4\d613b797ca945ac2ae59c4749345c311\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] D:\Users\jollitycn\.m2\repository\caches\transforms-4\d613b797ca945ac2ae59c4749345c311\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.1.0] D:\Users\jollitycn\.m2\repository\caches\transforms-4\04482a51a85d66214aab628809da6a85\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] D:\Users\jollitycn\.m2\repository\caches\transforms-4\04482a51a85d66214aab628809da6a85\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] D:\Users\jollitycn\.m2\repository\caches\transforms-4\166ab1b355868cd37afc18a61392a720\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] D:\Users\jollitycn\.m2\repository\caches\transforms-4\166ab1b355868cd37afc18a61392a720\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] D:\Users\jollitycn\.m2\repository\caches\transforms-4\79c690b95d17c314b265e39d5107c185\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] D:\Users\jollitycn\.m2\repository\caches\transforms-4\79c690b95d17c314b265e39d5107c185\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] D:\Users\jollitycn\.m2\repository\caches\transforms-4\395972793e47d5e8d647660dea5f1533\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] D:\Users\jollitycn\.m2\repository\caches\transforms-4\395972793e47d5e8d647660dea5f1533\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.core:core-ktx:1.13.1] D:\Users\jollitycn\.m2\repository\caches\transforms-4\20bed302461d7b44e80fc40058f3cc58\transformed\core-ktx-1.13.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.13.1] D:\Users\jollitycn\.m2\repository\caches\transforms-4\20bed302461d7b44e80fc40058f3cc58\transformed\core-ktx-1.13.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.autofill:autofill:1.0.0] D:\Users\jollitycn\.m2\repository\caches\transforms-4\04a78c63670ceb45430f22a6fd2a2272\transformed\autofill-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.0.0] D:\Users\jollitycn\.m2\repository\caches\transforms-4\04a78c63670ceb45430f22a6fd2a2272\transformed\autofill-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.graphics:graphics-path:1.0.1] D:\Users\jollitycn\.m2\repository\caches\transforms-4\83580a0f57f3747601d157d760a8afc7\transformed\graphics-path-1.0.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.graphics:graphics-path:1.0.1] D:\Users\jollitycn\.m2\repository\caches\transforms-4\83580a0f57f3747601d157d760a8afc7\transformed\graphics-path-1.0.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core:1.13.1] D:\Users\jollitycn\.m2\repository\caches\transforms-4\9351c1098fe2089716595b0ad3967dd7\transformed\core-1.13.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.13.1] D:\Users\jollitycn\.m2\repository\caches\transforms-4\9351c1098fe2089716595b0ad3967dd7\transformed\core-1.13.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] D:\Users\jollitycn\.m2\repository\caches\transforms-4\ad49d9b75964193ec15ed60834104482\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] D:\Users\jollitycn\.m2\repository\caches\transforms-4\ad49d9b75964193ec15ed60834104482\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] D:\Users\jollitycn\.m2\repository\caches\transforms-4\5580a30a3865e1e06f7fc8a33e931e11\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] D:\Users\jollitycn\.m2\repository\caches\transforms-4\5580a30a3865e1e06f7fc8a33e931e11\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.8.0] D:\Users\jollitycn\.m2\repository\caches\transforms-4\e6434be316be4d749cdc745e1b24d799\transformed\lifecycle-viewmodel-2.8.0\AndroidManifest.xml:4:5-43
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.8.0] D:\Users\jollitycn\.m2\repository\caches\transforms-4\e6434be316be4d749cdc745e1b24d799\transformed\lifecycle-viewmodel-2.8.0\AndroidManifest.xml:4:5-43
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.0] D:\Users\jollitycn\.m2\repository\caches\transforms-4\f80bfc7b311d69f043377132b94b1a5d\transformed\lifecycle-viewmodel-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.0] D:\Users\jollitycn\.m2\repository\caches\transforms-4\f80bfc7b311d69f043377132b94b1a5d\transformed\lifecycle-viewmodel-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.8.0] D:\Users\jollitycn\.m2\repository\caches\transforms-4\fed3db4a68609f17e2e29227f26a742a\transformed\lifecycle-runtime-ktx-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.8.0] D:\Users\jollitycn\.m2\repository\caches\transforms-4\fed3db4a68609f17e2e29227f26a742a\transformed\lifecycle-runtime-ktx-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.8.0] D:\Users\jollitycn\.m2\repository\caches\transforms-4\cfca2934d8976533e454f984336f3bf6\transformed\lifecycle-runtime-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.8.0] D:\Users\jollitycn\.m2\repository\caches\transforms-4\cfca2934d8976533e454f984336f3bf6\transformed\lifecycle-runtime-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.0] D:\Users\jollitycn\.m2\repository\caches\transforms-4\0aeb8a6ee666cfc0f39928fc0e760354\transformed\lifecycle-viewmodel-savedstate-2.8.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.0] D:\Users\jollitycn\.m2\repository\caches\transforms-4\0aeb8a6ee666cfc0f39928fc0e760354\transformed\lifecycle-viewmodel-savedstate-2.8.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.0] D:\Users\jollitycn\.m2\repository\caches\transforms-4\38855821566de4b65ca1ec4e2d5d22b5\transformed\lifecycle-viewmodel-ktx-2.8.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.0] D:\Users\jollitycn\.m2\repository\caches\transforms-4\38855821566de4b65ca1ec4e2d5d22b5\transformed\lifecycle-viewmodel-ktx-2.8.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.8.0] D:\Users\jollitycn\.m2\repository\caches\transforms-4\c773692ce36dddcf823e4880a0879fba\transformed\lifecycle-service-2.8.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.8.0] D:\Users\jollitycn\.m2\repository\caches\transforms-4\c773692ce36dddcf823e4880a0879fba\transformed\lifecycle-service-2.8.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.0] D:\Users\jollitycn\.m2\repository\caches\transforms-4\49479badc5cfa6ff4c375d35a68fb191\transformed\lifecycle-process-2.8.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.0] D:\Users\jollitycn\.m2\repository\caches\transforms-4\49479badc5cfa6ff4c375d35a68fb191\transformed\lifecycle-process-2.8.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.8.0] D:\Users\jollitycn\.m2\repository\caches\transforms-4\f951cfda438d7aa58194ad52fdfc1554\transformed\lifecycle-livedata-ktx-2.8.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.8.0] D:\Users\jollitycn\.m2\repository\caches\transforms-4\f951cfda438d7aa58194ad52fdfc1554\transformed\lifecycle-livedata-ktx-2.8.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.8.0] D:\Users\jollitycn\.m2\repository\caches\transforms-4\d3b71c052de3738d3ece49746ffbecf2\transformed\lifecycle-livedata-core-ktx-2.8.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.8.0] D:\Users\jollitycn\.m2\repository\caches\transforms-4\d3b71c052de3738d3ece49746ffbecf2\transformed\lifecycle-livedata-core-ktx-2.8.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.0] D:\Users\jollitycn\.m2\repository\caches\transforms-4\cb51e1f845e410043ecde25e32d66d6c\transformed\lifecycle-livedata-core-2.8.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.0] D:\Users\jollitycn\.m2\repository\caches\transforms-4\cb51e1f845e410043ecde25e32d66d6c\transformed\lifecycle-livedata-core-2.8.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.8.0] D:\Users\jollitycn\.m2\repository\caches\transforms-4\15b2f7b5d3f12c64ab9e361640fdaaae\transformed\lifecycle-livedata-2.8.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.8.0] D:\Users\jollitycn\.m2\repository\caches\transforms-4\15b2f7b5d3f12c64ab9e361640fdaaae\transformed\lifecycle-livedata-2.8.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-compose-android:2.8.0] D:\Users\jollitycn\.m2\repository\caches\transforms-4\6283580ff5bd0f6f33959eb7452f69dd\transformed\lifecycle-runtime-compose-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-compose-android:2.8.0] D:\Users\jollitycn\.m2\repository\caches\transforms-4\6283580ff5bd0f6f33959eb7452f69dd\transformed\lifecycle-runtime-compose-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-android:1.7.0-beta02] D:\Users\jollitycn\.m2\repository\caches\transforms-4\7587149e1ec555193ec1cbf849f4e597\transformed\runtime-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-android:1.7.0-beta02] D:\Users\jollitycn\.m2\repository\caches\transforms-4\7587149e1ec555193ec1cbf849f4e597\transformed\runtime-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] D:\Users\jollitycn\.m2\repository\caches\transforms-4\6753898e83c4783e074cb48f675961c9\transformed\annotation-experimental-1.4.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] D:\Users\jollitycn\.m2\repository\caches\transforms-4\6753898e83c4783e074cb48f675961c9\transformed\annotation-experimental-1.4.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] D:\Users\jollitycn\.m2\repository\caches\transforms-4\d3ce82b866044329fd504e5bfa511a5a\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] D:\Users\jollitycn\.m2\repository\caches\transforms-4\d3ce82b866044329fd504e5bfa511a5a\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window.extensions.core:core:1.0.0] D:\Users\jollitycn\.m2\repository\caches\transforms-4\b594eb04e67f6ce91a116e3a9388f20e\transformed\core-1.0.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.window.extensions.core:core:1.0.0] D:\Users\jollitycn\.m2\repository\caches\transforms-4\b594eb04e67f6ce91a116e3a9388f20e\transformed\core-1.0.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] D:\Users\jollitycn\.m2\repository\caches\transforms-4\19bd525e46c94e6d47d784e81ef789e9\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] D:\Users\jollitycn\.m2\repository\caches\transforms-4\19bd525e46c94e6d47d784e81ef789e9\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] D:\Users\jollitycn\.m2\repository\caches\transforms-4\b01020e669342201a0599c75f5c543d0\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] D:\Users\jollitycn\.m2\repository\caches\transforms-4\b01020e669342201a0599c75f5c543d0\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] D:\Users\jollitycn\.m2\repository\caches\transforms-4\cca6e9e67a357498b0fdaed8882ec9bc\transformed\profileinstaller-1.3.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] D:\Users\jollitycn\.m2\repository\caches\transforms-4\cca6e9e67a357498b0fdaed8882ec9bc\transformed\profileinstaller-1.3.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] D:\Users\jollitycn\.m2\repository\caches\transforms-4\e4229311fa37052d5103b9c8be1f507d\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] D:\Users\jollitycn\.m2\repository\caches\transforms-4\e4229311fa37052d5103b9c8be1f507d\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] D:\Users\jollitycn\.m2\repository\caches\transforms-4\1651979d06a8a36693dc31279252308c\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] D:\Users\jollitycn\.m2\repository\caches\transforms-4\1651979d06a8a36693dc31279252308c\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.0.0] D:\Users\jollitycn\.m2\repository\caches\transforms-4\12fa3a159c4922d2f55a45a1236dbd3c\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] D:\Users\jollitycn\.m2\repository\caches\transforms-4\12fa3a159c4922d2f55a45a1236dbd3c\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] D:\Users\jollitycn\.m2\repository\caches\transforms-4\cbf1dc5cfa4fc4940b1f028201feef6c\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] D:\Users\jollitycn\.m2\repository\caches\transforms-4\cbf1dc5cfa4fc4940b1f028201feef6c\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] D:\Users\jollitycn\.m2\repository\caches\transforms-4\041b119a1dd8cb8e7f09e8acf2f3c0d9\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] D:\Users\jollitycn\.m2\repository\caches\transforms-4\041b119a1dd8cb8e7f09e8acf2f3c0d9\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] D:\Users\jollitycn\.m2\repository\caches\transforms-4\b4ad08b51ae90731d1ca860a741dac18\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] D:\Users\jollitycn\.m2\repository\caches\transforms-4\b4ad08b51ae90731d1ca860a741dac18\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] D:\Users\jollitycn\.m2\repository\caches\transforms-4\22c32fac4990167bb2b13d48d2ca7c77\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] D:\Users\jollitycn\.m2\repository\caches\transforms-4\22c32fac4990167bb2b13d48d2ca7c77\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+	android:targetSdkVersion
+		INJECTED from E:\studio\project\PCControllerApp\MobileKeybroad\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\studio\project\PCControllerApp\MobileKeybroad\app\src\main\AndroidManifest.xml
+queries
+ADDED from [com.android.car.ui:car-ui-lib:2.6.0] D:\Users\jollitycn\.m2\repository\caches\transforms-4\95831122b86d8bc4cdbccda06bfea7ee\transformed\car-ui-lib-2.6.0\AndroidManifest.xml:23:5-34:15
+intent#action:name:android.view.InputMethod
+ADDED from [com.android.car.ui:car-ui-lib:2.6.0] D:\Users\jollitycn\.m2\repository\caches\transforms-4\95831122b86d8bc4cdbccda06bfea7ee\transformed\car-ui-lib-2.6.0\AndroidManifest.xml:26:9-28:18
+action#android.view.InputMethod
+ADDED from [com.android.car.ui:car-ui-lib:2.6.0] D:\Users\jollitycn\.m2\repository\caches\transforms-4\95831122b86d8bc4cdbccda06bfea7ee\transformed\car-ui-lib-2.6.0\AndroidManifest.xml:27:13-63
+	android:name
+		ADDED from [com.android.car.ui:car-ui-lib:2.6.0] D:\Users\jollitycn\.m2\repository\caches\transforms-4\95831122b86d8bc4cdbccda06bfea7ee\transformed\car-ui-lib-2.6.0\AndroidManifest.xml:27:21-60
+provider#com.android.car.ui.plugin.PluginNameProvider
+ADDED from [com.android.car.ui:car-ui-lib:2.6.0] D:\Users\jollitycn\.m2\repository\caches\transforms-4\95831122b86d8bc4cdbccda06bfea7ee\transformed\car-ui-lib-2.6.0\AndroidManifest.xml:30:9-33:67
+	android:authorities
+		ADDED from [com.android.car.ui:car-ui-lib:2.6.0] D:\Users\jollitycn\.m2\repository\caches\transforms-4\95831122b86d8bc4cdbccda06bfea7ee\transformed\car-ui-lib-2.6.0\AndroidManifest.xml:32:13-60
+	tools:ignore
+		ADDED from [com.android.car.ui:car-ui-lib:2.6.0] D:\Users\jollitycn\.m2\repository\caches\transforms-4\95831122b86d8bc4cdbccda06bfea7ee\transformed\car-ui-lib-2.6.0\AndroidManifest.xml:33:13-64
+	android:name
+		ADDED from [com.android.car.ui:car-ui-lib:2.6.0] D:\Users\jollitycn\.m2\repository\caches\transforms-4\95831122b86d8bc4cdbccda06bfea7ee\transformed\car-ui-lib-2.6.0\AndroidManifest.xml:31:13-72
+provider#com.android.car.ui.core.CarUiInstaller
+ADDED from [com.android.car.ui:car-ui-lib:2.6.0] D:\Users\jollitycn\.m2\repository\caches\transforms-4\95831122b86d8bc4cdbccda06bfea7ee\transformed\car-ui-lib-2.6.0\AndroidManifest.xml:37:9-42:71
+	android:process
+		ADDED from [com.android.car.ui:car-ui-lib:2.6.0] D:\Users\jollitycn\.m2\repository\caches\transforms-4\95831122b86d8bc4cdbccda06bfea7ee\transformed\car-ui-lib-2.6.0\AndroidManifest.xml:42:13-68
+	android:authorities
+		ADDED from [com.android.car.ui:car-ui-lib:2.6.0] D:\Users\jollitycn\.m2\repository\caches\transforms-4\95831122b86d8bc4cdbccda06bfea7ee\transformed\car-ui-lib-2.6.0\AndroidManifest.xml:39:13-66
+	android:exported
+		ADDED from [com.android.car.ui:car-ui-lib:2.6.0] D:\Users\jollitycn\.m2\repository\caches\transforms-4\95831122b86d8bc4cdbccda06bfea7ee\transformed\car-ui-lib-2.6.0\AndroidManifest.xml:41:13-37
+	android:directBootAware
+		ADDED from [com.android.car.ui:car-ui-lib:2.6.0] D:\Users\jollitycn\.m2\repository\caches\transforms-4\95831122b86d8bc4cdbccda06bfea7ee\transformed\car-ui-lib-2.6.0\AndroidManifest.xml:40:13-43
+	android:name
+		ADDED from [com.android.car.ui:car-ui-lib:2.6.0] D:\Users\jollitycn\.m2\repository\caches\transforms-4\95831122b86d8bc4cdbccda06bfea7ee\transformed\car-ui-lib-2.6.0\AndroidManifest.xml:38:13-66
+provider#com.android.car.ui.core.SearchResultsProvider
+ADDED from [com.android.car.ui:car-ui-lib:2.6.0] D:\Users\jollitycn\.m2\repository\caches\transforms-4\95831122b86d8bc4cdbccda06bfea7ee\transformed\car-ui-lib-2.6.0\AndroidManifest.xml:43:9-48:79
+	android:readPermission
+		ADDED from [com.android.car.ui:car-ui-lib:2.6.0] D:\Users\jollitycn\.m2\repository\caches\transforms-4\95831122b86d8bc4cdbccda06bfea7ee\transformed\car-ui-lib-2.6.0\AndroidManifest.xml:48:13-76
+	android:process
+		ADDED from [com.android.car.ui:car-ui-lib:2.6.0] D:\Users\jollitycn\.m2\repository\caches\transforms-4\95831122b86d8bc4cdbccda06bfea7ee\transformed\car-ui-lib-2.6.0\AndroidManifest.xml:47:13-68
+	android:authorities
+		ADDED from [com.android.car.ui:car-ui-lib:2.6.0] D:\Users\jollitycn\.m2\repository\caches\transforms-4\95831122b86d8bc4cdbccda06bfea7ee\transformed\car-ui-lib-2.6.0\AndroidManifest.xml:45:13-73
+	android:exported
+		ADDED from [com.android.car.ui:car-ui-lib:2.6.0] D:\Users\jollitycn\.m2\repository\caches\transforms-4\95831122b86d8bc4cdbccda06bfea7ee\transformed\car-ui-lib-2.6.0\AndroidManifest.xml:46:13-36
+	android:name
+		ADDED from [com.android.car.ui:car-ui-lib:2.6.0] D:\Users\jollitycn\.m2\repository\caches\transforms-4\95831122b86d8bc4cdbccda06bfea7ee\transformed\car-ui-lib-2.6.0\AndroidManifest.xml:44:13-73
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.3.0-beta02] D:\Users\jollitycn\.m2\repository\caches\transforms-4\4d595a59a4b5ded1a2b1078fb93465bf\transformed\window-1.3.0-beta02\AndroidManifest.xml:23:9-25:40
+	android:required
+		ADDED from [androidx.window:window:1.3.0-beta02] D:\Users\jollitycn\.m2\repository\caches\transforms-4\4d595a59a4b5ded1a2b1078fb93465bf\transformed\window-1.3.0-beta02\AndroidManifest.xml:25:13-37
+	android:name
+		ADDED from [androidx.window:window:1.3.0-beta02] D:\Users\jollitycn\.m2\repository\caches\transforms-4\4d595a59a4b5ded1a2b1078fb93465bf\transformed\window-1.3.0-beta02\AndroidManifest.xml:24:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.3.0-beta02] D:\Users\jollitycn\.m2\repository\caches\transforms-4\4d595a59a4b5ded1a2b1078fb93465bf\transformed\window-1.3.0-beta02\AndroidManifest.xml:26:9-28:40
+	android:required
+		ADDED from [androidx.window:window:1.3.0-beta02] D:\Users\jollitycn\.m2\repository\caches\transforms-4\4d595a59a4b5ded1a2b1078fb93465bf\transformed\window-1.3.0-beta02\AndroidManifest.xml:28:13-37
+	android:name
+		ADDED from [androidx.window:window:1.3.0-beta02] D:\Users\jollitycn\.m2\repository\caches\transforms-4\4d595a59a4b5ded1a2b1078fb93465bf\transformed\window-1.3.0-beta02\AndroidManifest.xml:27:13-51
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.3.0] D:\Users\jollitycn\.m2\repository\caches\transforms-4\8e4a25dd55af5790f7edcb1aad870e43\transformed\emoji2-1.3.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.0] D:\Users\jollitycn\.m2\repository\caches\transforms-4\49479badc5cfa6ff4c375d35a68fb191\transformed\lifecycle-process-2.8.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.0] D:\Users\jollitycn\.m2\repository\caches\transforms-4\49479badc5cfa6ff4c375d35a68fb191\transformed\lifecycle-process-2.8.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] D:\Users\jollitycn\.m2\repository\caches\transforms-4\cca6e9e67a357498b0fdaed8882ec9bc\transformed\profileinstaller-1.3.1\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] D:\Users\jollitycn\.m2\repository\caches\transforms-4\cca6e9e67a357498b0fdaed8882ec9bc\transformed\profileinstaller-1.3.1\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] D:\Users\jollitycn\.m2\repository\caches\transforms-4\e4229311fa37052d5103b9c8be1f507d\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] D:\Users\jollitycn\.m2\repository\caches\transforms-4\e4229311fa37052d5103b9c8be1f507d\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.3.0] D:\Users\jollitycn\.m2\repository\caches\transforms-4\8e4a25dd55af5790f7edcb1aad870e43\transformed\emoji2-1.3.0\AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.3.0] D:\Users\jollitycn\.m2\repository\caches\transforms-4\8e4a25dd55af5790f7edcb1aad870e43\transformed\emoji2-1.3.0\AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.3.0] D:\Users\jollitycn\.m2\repository\caches\transforms-4\8e4a25dd55af5790f7edcb1aad870e43\transformed\emoji2-1.3.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] D:\Users\jollitycn\.m2\repository\caches\transforms-4\8e4a25dd55af5790f7edcb1aad870e43\transformed\emoji2-1.3.0\AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.3.0] D:\Users\jollitycn\.m2\repository\caches\transforms-4\8e4a25dd55af5790f7edcb1aad870e43\transformed\emoji2-1.3.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.3.0] D:\Users\jollitycn\.m2\repository\caches\transforms-4\8e4a25dd55af5790f7edcb1aad870e43\transformed\emoji2-1.3.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] D:\Users\jollitycn\.m2\repository\caches\transforms-4\8e4a25dd55af5790f7edcb1aad870e43\transformed\emoji2-1.3.0\AndroidManifest.xml:30:17-75
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] D:\Users\jollitycn\.m2\repository\caches\transforms-4\9351c1098fe2089716595b0ad3967dd7\transformed\core-1.13.1\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.1] D:\Users\jollitycn\.m2\repository\caches\transforms-4\9351c1098fe2089716595b0ad3967dd7\transformed\core-1.13.1\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.1] D:\Users\jollitycn\.m2\repository\caches\transforms-4\9351c1098fe2089716595b0ad3967dd7\transformed\core-1.13.1\AndroidManifest.xml:23:9-81
+permission#com.jollitycn.mobilekeybroad.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] D:\Users\jollitycn\.m2\repository\caches\transforms-4\9351c1098fe2089716595b0ad3967dd7\transformed\core-1.13.1\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.1] D:\Users\jollitycn\.m2\repository\caches\transforms-4\9351c1098fe2089716595b0ad3967dd7\transformed\core-1.13.1\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.1] D:\Users\jollitycn\.m2\repository\caches\transforms-4\9351c1098fe2089716595b0ad3967dd7\transformed\core-1.13.1\AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] D:\Users\jollitycn\.m2\repository\caches\transforms-4\9351c1098fe2089716595b0ad3967dd7\transformed\core-1.13.1\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.1] D:\Users\jollitycn\.m2\repository\caches\transforms-4\9351c1098fe2089716595b0ad3967dd7\transformed\core-1.13.1\AndroidManifest.xml:26:22-94
+uses-permission#com.jollitycn.mobilekeybroad.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] D:\Users\jollitycn\.m2\repository\caches\transforms-4\9351c1098fe2089716595b0ad3967dd7\transformed\core-1.13.1\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.1] D:\Users\jollitycn\.m2\repository\caches\transforms-4\9351c1098fe2089716595b0ad3967dd7\transformed\core-1.13.1\AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.8.0] D:\Users\jollitycn\.m2\repository\caches\transforms-4\49479badc5cfa6ff4c375d35a68fb191\transformed\lifecycle-process-2.8.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.8.0] D:\Users\jollitycn\.m2\repository\caches\transforms-4\49479badc5cfa6ff4c375d35a68fb191\transformed\lifecycle-process-2.8.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.8.0] D:\Users\jollitycn\.m2\repository\caches\transforms-4\49479badc5cfa6ff4c375d35a68fb191\transformed\lifecycle-process-2.8.0\AndroidManifest.xml:30:17-78
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] D:\Users\jollitycn\.m2\repository\caches\transforms-4\cca6e9e67a357498b0fdaed8882ec9bc\transformed\profileinstaller-1.3.1\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] D:\Users\jollitycn\.m2\repository\caches\transforms-4\cca6e9e67a357498b0fdaed8882ec9bc\transformed\profileinstaller-1.3.1\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] D:\Users\jollitycn\.m2\repository\caches\transforms-4\cca6e9e67a357498b0fdaed8882ec9bc\transformed\profileinstaller-1.3.1\AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] D:\Users\jollitycn\.m2\repository\caches\transforms-4\cca6e9e67a357498b0fdaed8882ec9bc\transformed\profileinstaller-1.3.1\AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] D:\Users\jollitycn\.m2\repository\caches\transforms-4\cca6e9e67a357498b0fdaed8882ec9bc\transformed\profileinstaller-1.3.1\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] D:\Users\jollitycn\.m2\repository\caches\transforms-4\cca6e9e67a357498b0fdaed8882ec9bc\transformed\profileinstaller-1.3.1\AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] D:\Users\jollitycn\.m2\repository\caches\transforms-4\cca6e9e67a357498b0fdaed8882ec9bc\transformed\profileinstaller-1.3.1\AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] D:\Users\jollitycn\.m2\repository\caches\transforms-4\cca6e9e67a357498b0fdaed8882ec9bc\transformed\profileinstaller-1.3.1\AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] D:\Users\jollitycn\.m2\repository\caches\transforms-4\cca6e9e67a357498b0fdaed8882ec9bc\transformed\profileinstaller-1.3.1\AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] D:\Users\jollitycn\.m2\repository\caches\transforms-4\cca6e9e67a357498b0fdaed8882ec9bc\transformed\profileinstaller-1.3.1\AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] D:\Users\jollitycn\.m2\repository\caches\transforms-4\cca6e9e67a357498b0fdaed8882ec9bc\transformed\profileinstaller-1.3.1\AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] D:\Users\jollitycn\.m2\repository\caches\transforms-4\cca6e9e67a357498b0fdaed8882ec9bc\transformed\profileinstaller-1.3.1\AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] D:\Users\jollitycn\.m2\repository\caches\transforms-4\cca6e9e67a357498b0fdaed8882ec9bc\transformed\profileinstaller-1.3.1\AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] D:\Users\jollitycn\.m2\repository\caches\transforms-4\cca6e9e67a357498b0fdaed8882ec9bc\transformed\profileinstaller-1.3.1\AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] D:\Users\jollitycn\.m2\repository\caches\transforms-4\cca6e9e67a357498b0fdaed8882ec9bc\transformed\profileinstaller-1.3.1\AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] D:\Users\jollitycn\.m2\repository\caches\transforms-4\cca6e9e67a357498b0fdaed8882ec9bc\transformed\profileinstaller-1.3.1\AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] D:\Users\jollitycn\.m2\repository\caches\transforms-4\cca6e9e67a357498b0fdaed8882ec9bc\transformed\profileinstaller-1.3.1\AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] D:\Users\jollitycn\.m2\repository\caches\transforms-4\cca6e9e67a357498b0fdaed8882ec9bc\transformed\profileinstaller-1.3.1\AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] D:\Users\jollitycn\.m2\repository\caches\transforms-4\cca6e9e67a357498b0fdaed8882ec9bc\transformed\profileinstaller-1.3.1\AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] D:\Users\jollitycn\.m2\repository\caches\transforms-4\cca6e9e67a357498b0fdaed8882ec9bc\transformed\profileinstaller-1.3.1\AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] D:\Users\jollitycn\.m2\repository\caches\transforms-4\cca6e9e67a357498b0fdaed8882ec9bc\transformed\profileinstaller-1.3.1\AndroidManifest.xml:50:25-92
