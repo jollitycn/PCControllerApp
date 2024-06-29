@@ -1,250 +1,218 @@
 [
     {
-        "merged": "com.jollitycn.mobilekeybroad.app-debug-73:/layout_fragment_reflow.xml.flat",
-        "source": "com.jollitycn.mobilekeybroad.app-main-75:/layout/fragment_reflow.xml"
+        "merged": "D:\\Users\\jollitycn\\.m2\\repository\\daemon\\8.6\\com.jollitycn.mobilekeybroad.app-debug-73:\\xml_backup_rules.xml.flat",
+        "source": "D:\\Users\\jollitycn\\.m2\\repository\\daemon\\8.6\\com.jollitycn.mobilekeybroad.app-main-75:\\xml\\backup_rules.xml"
     },
     {
-        "merged": "com.jollitycn.mobilekeybroad.app-debug-73:/mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "com.jollitycn.mobilekeybroad.app-main-75:/mipmap-hdpi/ic_launcher_round.webp"
+        "merged": "D:\\Users\\jollitycn\\.m2\\repository\\daemon\\8.6\\com.jollitycn.mobilekeybroad.app-debug-73:\\layout-w600dp_activity_mainbak.xml.flat",
+        "source": "D:\\Users\\jollitycn\\.m2\\repository\\daemon\\8.6\\com.jollitycn.mobilekeybroad.app-main-75:\\layout-w600dp\\activity_mainbak.xml"
     },
     {
-        "merged": "com.jollitycn.mobilekeybroad.app-debug-73:/layout_nav_header_main.xml.flat",
-        "source": "com.jollitycn.mobilekeybroad.app-main-75:/layout/nav_header_main.xml"
+        "merged": "D:\\Users\\jollitycn\\.m2\\repository\\daemon\\8.6\\com.jollitycn.mobilekeybroad.app-debug-73:\\drawable_ic_launcher_background.xml.flat",
+        "source": "D:\\Users\\jollitycn\\.m2\\repository\\daemon\\8.6\\com.jollitycn.mobilekeybroad.app-main-75:\\drawable\\ic_launcher_background.xml"
     },
     {
-        "merged": "com.jollitycn.mobilekeybroad.app-debug-73:/mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "com.jollitycn.mobilekeybroad.app-main-75:/mipmap-xxhdpi/ic_launcher.webp"
+        "merged": "D:\\Users\\jollitycn\\.m2\\repository\\daemon\\8.6\\com.jollitycn.mobilekeybroad.app-debug-73:\\menu_navigation_drawer.xml.flat",
+        "source": "D:\\Users\\jollitycn\\.m2\\repository\\daemon\\8.6\\com.jollitycn.mobilekeybroad.app-main-75:\\menu\\navigation_drawer.xml"
     },
     {
-        "merged": "com.jollitycn.mobilekeybroad.app-debug-73:/navigation_mobile_navigation.xml.flat",
-        "source": "com.jollitycn.mobilekeybroad.app-main-75:/navigation/mobile_navigation.xml"
+        "merged": "D:\\Users\\jollitycn\\.m2\\repository\\daemon\\8.6\\com.jollitycn.mobilekeybroad.app-debug-73:\\drawable_keyboard_arrow_down_24px.xml.flat",
+        "source": "D:\\Users\\jollitycn\\.m2\\repository\\daemon\\8.6\\com.jollitycn.mobilekeybroad.app-main-75:\\drawable\\keyboard_arrow_down_24px.xml"
     },
     {
-        "merged": "com.jollitycn.mobilekeybroad.app-debug-73:/mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "com.jollitycn.mobilekeybroad.app-main-75:/mipmap-xhdpi/ic_launcher_round.webp"
+        "merged": "D:\\Users\\jollitycn\\.m2\\repository\\daemon\\8.6\\com.jollitycn.mobilekeybroad.app-debug-73:\\xml_data_extraction_rules.xml.flat",
+        "source": "D:\\Users\\jollitycn\\.m2\\repository\\daemon\\8.6\\com.jollitycn.mobilekeybroad.app-main-75:\\xml\\data_extraction_rules.xml"
     },
     {
-        "merged": "com.jollitycn.mobilekeybroad.app-debug-73:/drawable_keyboard_arrow_down_24px.xml.flat",
-        "source": "com.jollitycn.mobilekeybroad.app-main-75:/drawable/keyboard_arrow_down_24px.xml"
+        "merged": "D:\\Users\\jollitycn\\.m2\\repository\\daemon\\8.6\\com.jollitycn.mobilekeybroad.app-debug-73:\\mipmap-anydpi_ic_launcher_round.xml.flat",
+        "source": "D:\\Users\\jollitycn\\.m2\\repository\\daemon\\8.6\\com.jollitycn.mobilekeybroad.app-main-75:\\mipmap-anydpi\\ic_launcher_round.xml"
     },
     {
-        "merged": "com.jollitycn.mobilekeybroad.app-debug-73:/drawable_side_nav_bar.xml.flat",
-        "source": "com.jollitycn.mobilekeybroad.app-main-75:/drawable/side_nav_bar.xml"
+        "merged": "D:\\Users\\jollitycn\\.m2\\repository\\daemon\\8.6\\com.jollitycn.mobilekeybroad.app-debug-73:\\drawable_ic_gallery_black_24dp.xml.flat",
+        "source": "D:\\Users\\jollitycn\\.m2\\repository\\daemon\\8.6\\com.jollitycn.mobilekeybroad.app-main-75:\\drawable\\ic_gallery_black_24dp.xml"
     },
     {
-        "merged": "com.jollitycn.mobilekeybroad.app-debug-73:/menu_overflow.xml.flat",
-        "source": "com.jollitycn.mobilekeybroad.app-main-75:/menu/overflow.xml"
+        "merged": "D:\\Users\\jollitycn\\.m2\\repository\\daemon\\8.6\\com.jollitycn.mobilekeybroad.app-debug-73:\\layout-w1240dp_activity_mainbak.xml.flat",
+        "source": "D:\\Users\\jollitycn\\.m2\\repository\\daemon\\8.6\\com.jollitycn.mobilekeybroad.app-main-75:\\layout-w1240dp\\activity_mainbak.xml"
     },
     {
-        "merged": "com.jollitycn.mobilekeybroad.app-debug-73:/menu_bottom_navigation.xml.flat",
-        "source": "com.jollitycn.mobilekeybroad.app-main-75:/menu/bottom_navigation.xml"
+        "merged": "D:\\Users\\jollitycn\\.m2\\repository\\daemon\\8.6\\com.jollitycn.mobilekeybroad.app-debug-73:\\layout-w1240dp_content_main.xml.flat",
+        "source": "D:\\Users\\jollitycn\\.m2\\repository\\daemon\\8.6\\com.jollitycn.mobilekeybroad.app-main-75:\\layout-w1240dp\\content_main.xml"
     },
     {
-        "merged": "com.jollitycn.mobilekeybroad.app-debug-73:/layout-w1240dp_content_main.xml.flat",
-        "source": "com.jollitycn.mobilekeybroad.app-main-75:/layout-w1240dp/content_main.xml"
+        "merged": "D:\\Users\\jollitycn\\.m2\\repository\\daemon\\8.6\\com.jollitycn.mobilekeybroad.app-debug-73:\\layout_activity_keybroad.xml.flat",
+        "source": "D:\\Users\\jollitycn\\.m2\\repository\\daemon\\8.6\\com.jollitycn.mobilekeybroad.app-main-75:\\layout\\activity_keybroad.xml"
     },
     {
-        "merged": "com.jollitycn.mobilekeybroad.app-debug-73:/layout_app_bar_main.xml.flat",
-        "source": "com.jollitycn.mobilekeybroad.app-main-75:/layout/app_bar_main.xml"
+        "merged": "D:\\Users\\jollitycn\\.m2\\repository\\daemon\\8.6\\com.jollitycn.mobilekeybroad.app-debug-73:\\layout_nav_header_main.xml.flat",
+        "source": "D:\\Users\\jollitycn\\.m2\\repository\\daemon\\8.6\\com.jollitycn.mobilekeybroad.app-main-75:\\layout\\nav_header_main.xml"
     },
     {
-        "merged": "com.jollitycn.mobilekeybroad.app-debug-73:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "com.jollitycn.mobilekeybroad.app-main-75:/mipmap-xxxhdpi/ic_launcher_round.webp"
+        "merged": "D:\\Users\\jollitycn\\.m2\\repository\\daemon\\8.6\\com.jollitycn.mobilekeybroad.app-debug-73:\\drawable_ic_settings_black_24dp.xml.flat",
+        "source": "D:\\Users\\jollitycn\\.m2\\repository\\daemon\\8.6\\com.jollitycn.mobilekeybroad.app-main-75:\\drawable\\ic_settings_black_24dp.xml"
     },
     {
-        "merged": "com.jollitycn.mobilekeybroad.app-debug-73:/layout-w1240dp_activity_main.xml.flat",
-        "source": "com.jollitycn.mobilekeybroad.app-main-75:/layout-w1240dp/activity_main.xml"
+        "merged": "D:\\Users\\jollitycn\\.m2\\repository\\daemon\\8.6\\com.jollitycn.mobilekeybroad.app-debug-73:\\drawable_keyboard_arrow_left_24px.xml.flat",
+        "source": "D:\\Users\\jollitycn\\.m2\\repository\\daemon\\8.6\\com.jollitycn.mobilekeybroad.app-main-75:\\drawable\\keyboard_arrow_left_24px.xml"
     },
     {
-        "merged": "com.jollitycn.mobilekeybroad.app-debug-73:/drawable_keyboard_arrow_right_24px.xml.flat",
-        "source": "com.jollitycn.mobilekeybroad.app-main-75:/drawable/keyboard_arrow_right_24px.xml"
+        "merged": "D:\\Users\\jollitycn\\.m2\\repository\\daemon\\8.6\\com.jollitycn.mobilekeybroad.app-debug-73:\\mipmap-anydpi_ic_launcher.xml.flat",
+        "source": "D:\\Users\\jollitycn\\.m2\\repository\\daemon\\8.6\\com.jollitycn.mobilekeybroad.app-main-75:\\mipmap-anydpi\\ic_launcher.xml"
     },
     {
-        "merged": "com.jollitycn.mobilekeybroad.app-debug-73:/mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "com.jollitycn.mobilekeybroad.app-main-75:/mipmap-mdpi/ic_launcher.webp"
+        "merged": "D:\\Users\\jollitycn\\.m2\\repository\\daemon\\8.6\\com.jollitycn.mobilekeybroad.app-debug-73:\\layout_fragment_slideshow.xml.flat",
+        "source": "D:\\Users\\jollitycn\\.m2\\repository\\daemon\\8.6\\com.jollitycn.mobilekeybroad.app-main-75:\\layout\\fragment_slideshow.xml"
     },
     {
-        "merged": "com.jollitycn.mobilekeybroad.app-debug-73:/layout_bluetooth_device_list_item.xml.flat",
-        "source": "com.jollitycn.mobilekeybroad.app-main-75:/layout/bluetooth_device_list_item.xml"
+        "merged": "D:\\Users\\jollitycn\\.m2\\repository\\daemon\\8.6\\com.jollitycn.mobilekeybroad.app-debug-73:\\navigation_mobile_navigation.xml.flat",
+        "source": "D:\\Users\\jollitycn\\.m2\\repository\\daemon\\8.6\\com.jollitycn.mobilekeybroad.app-main-75:\\navigation\\mobile_navigation.xml"
     },
     {
-        "merged": "com.jollitycn.mobilekeybroad.app-debug-73:/drawable_keyboard_arrow_up_24px.xml.flat",
-        "source": "com.jollitycn.mobilekeybroad.app-main-75:/drawable/keyboard_arrow_up_24px.xml"
+        "merged": "D:\\Users\\jollitycn\\.m2\\repository\\daemon\\8.6\\com.jollitycn.mobilekeybroad.app-debug-73:\\layout_content_main.xml.flat",
+        "source": "D:\\Users\\jollitycn\\.m2\\repository\\daemon\\8.6\\com.jollitycn.mobilekeybroad.app-main-75:\\layout\\content_main.xml"
     },
     {
-        "merged": "com.jollitycn.mobilekeybroad.app-debug-73:/menu_navigation_drawer.xml.flat",
-        "source": "com.jollitycn.mobilekeybroad.app-main-75:/menu/navigation_drawer.xml"
+        "merged": "D:\\Users\\jollitycn\\.m2\\repository\\daemon\\8.6\\com.jollitycn.mobilekeybroad.app-debug-73:\\xml_keyboard_layout.xml.flat",
+        "source": "D:\\Users\\jollitycn\\.m2\\repository\\daemon\\8.6\\com.jollitycn.mobilekeybroad.app-main-75:\\xml\\keyboard_layout.xml"
     },
     {
-        "merged": "com.jollitycn.mobilekeybroad.app-debug-73:/drawable_ic_launcher_background.xml.flat",
-        "source": "com.jollitycn.mobilekeybroad.app-main-75:/drawable/ic_launcher_background.xml"
+        "merged": "D:\\Users\\jollitycn\\.m2\\repository\\daemon\\8.6\\com.jollitycn.mobilekeybroad.app-debug-73:\\layout_mouse_control_fragment.xml.flat",
+        "source": "D:\\Users\\jollitycn\\.m2\\repository\\daemon\\8.6\\com.jollitycn.mobilekeybroad.app-main-75:\\layout\\mouse_control_fragment.xml"
     },
     {
-        "merged": "com.jollitycn.mobilekeybroad.app-debug-73:/mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "com.jollitycn.mobilekeybroad.app-main-75:/mipmap-hdpi/ic_launcher.webp"
+        "merged": "D:\\Users\\jollitycn\\.m2\\repository\\daemon\\8.6\\com.jollitycn.mobilekeybroad.app-debug-73:\\layout_activity_mainbak.xml.flat",
+        "source": "D:\\Users\\jollitycn\\.m2\\repository\\daemon\\8.6\\com.jollitycn.mobilekeybroad.app-main-75:\\layout\\activity_mainbak.xml"
     },
     {
-        "merged": "com.jollitycn.mobilekeybroad.app-debug-73:/drawable_ic_gallery_black_24dp.xml.flat",
-        "source": "com.jollitycn.mobilekeybroad.app-main-75:/drawable/ic_gallery_black_24dp.xml"
+        "merged": "D:\\Users\\jollitycn\\.m2\\repository\\daemon\\8.6\\com.jollitycn.mobilekeybroad.app-debug-73:\\layout_app_bar_main.xml.flat",
+        "source": "D:\\Users\\jollitycn\\.m2\\repository\\daemon\\8.6\\com.jollitycn.mobilekeybroad.app-main-75:\\layout\\app_bar_main.xml"
     },
     {
-        "merged": "com.jollitycn.mobilekeybroad.app-debug-73:/layout_mousepad_fragment.xml.flat",
-        "source": "com.jollitycn.mobilekeybroad.app-main-75:/layout/mousepad_fragment.xml"
+        "merged": "D:\\Users\\jollitycn\\.m2\\repository\\daemon\\8.6\\com.jollitycn.mobilekeybroad.app-debug-73:\\menu_overflow.xml.flat",
+        "source": "D:\\Users\\jollitycn\\.m2\\repository\\daemon\\8.6\\com.jollitycn.mobilekeybroad.app-main-75:\\menu\\overflow.xml"
     },
     {
-        "merged": "com.jollitycn.mobilekeybroad.app-debug-73:/layout_fragment_settings.xml.flat",
-        "source": "com.jollitycn.mobilekeybroad.app-main-75:/layout/fragment_settings.xml"
+        "merged": "D:\\Users\\jollitycn\\.m2\\repository\\daemon\\8.6\\com.jollitycn.mobilekeybroad.app-debug-73:\\layout_activity_main.xml.flat",
+        "source": "D:\\Users\\jollitycn\\.m2\\repository\\daemon\\8.6\\com.jollitycn.mobilekeybroad.app-main-75:\\layout\\activity_main.xml"
     },
     {
-        "merged": "com.jollitycn.mobilekeybroad.app-debug-73:/layout-w600dp_app_bar_main.xml.flat",
-        "source": "com.jollitycn.mobilekeybroad.app-main-75:/layout-w600dp/app_bar_main.xml"
+        "merged": "D:\\Users\\jollitycn\\.m2\\repository\\daemon\\8.6\\com.jollitycn.mobilekeybroad.app-debug-73:\\layout-w1240dp_activity_main.xml.flat",
+        "source": "D:\\Users\\jollitycn\\.m2\\repository\\daemon\\8.6\\com.jollitycn.mobilekeybroad.app-main-75:\\layout-w1240dp\\activity_main.xml"
     },
     {
-        "merged": "com.jollitycn.mobilekeybroad.app-debug-73:/mipmap-anydpi_ic_launcher_round.xml.flat",
-        "source": "com.jollitycn.mobilekeybroad.app-main-75:/mipmap-anydpi/ic_launcher_round.xml"
+        "merged": "D:\\Users\\jollitycn\\.m2\\repository\\daemon\\8.6\\com.jollitycn.mobilekeybroad.app-debug-73:\\drawable_side_nav_bar.xml.flat",
+        "source": "D:\\Users\\jollitycn\\.m2\\repository\\daemon\\8.6\\com.jollitycn.mobilekeybroad.app-main-75:\\drawable\\side_nav_bar.xml"
     },
     {
-        "merged": "com.jollitycn.mobilekeybroad.app-debug-73:/xml_backup_rules.xml.flat",
-        "source": "com.jollitycn.mobilekeybroad.app-main-75:/xml/backup_rules.xml"
+        "merged": "D:\\Users\\jollitycn\\.m2\\repository\\daemon\\8.6\\com.jollitycn.mobilekeybroad.app-debug-73:\\drawable_ic_slideshow_black_24dp.xml.flat",
+        "source": "D:\\Users\\jollitycn\\.m2\\repository\\daemon\\8.6\\com.jollitycn.mobilekeybroad.app-main-75:\\drawable\\ic_slideshow_black_24dp.xml"
     },
     {
-        "merged": "com.jollitycn.mobilekeybroad.app-debug-73:/layout_item_transform.xml.flat",
-        "source": "com.jollitycn.mobilekeybroad.app-main-75:/layout/item_transform.xml"
+        "merged": "D:\\Users\\jollitycn\\.m2\\repository\\daemon\\8.6\\com.jollitycn.mobilekeybroad.app-debug-73:\\drawable_key_with_inner_border.xml.flat",
+        "source": "D:\\Users\\jollitycn\\.m2\\repository\\daemon\\8.6\\com.jollitycn.mobilekeybroad.app-main-75:\\drawable\\key_with_inner_border.xml"
     },
     {
-        "merged": "com.jollitycn.mobilekeybroad.app-debug-73:/drawable_keyboard_arrow_left_24px.xml.flat",
-        "source": "com.jollitycn.mobilekeybroad.app-main-75:/drawable/keyboard_arrow_left_24px.xml"
+        "merged": "D:\\Users\\jollitycn\\.m2\\repository\\daemon\\8.6\\com.jollitycn.mobilekeybroad.app-debug-73:\\drawable_keyboard_arrow_right_24px.xml.flat",
+        "source": "D:\\Users\\jollitycn\\.m2\\repository\\daemon\\8.6\\com.jollitycn.mobilekeybroad.app-main-75:\\drawable\\keyboard_arrow_right_24px.xml"
     },
     {
-        "merged": "com.jollitycn.mobilekeybroad.app-debug-73:/layout-w600dp_fragment_transform.xml.flat",
-        "source": "com.jollitycn.mobilekeybroad.app-main-75:/layout-w600dp/fragment_transform.xml"
+        "merged": "D:\\Users\\jollitycn\\.m2\\repository\\daemon\\8.6\\com.jollitycn.mobilekeybroad.app-debug-73:\\layout-w600dp_activity_main.xml.flat",
+        "source": "D:\\Users\\jollitycn\\.m2\\repository\\daemon\\8.6\\com.jollitycn.mobilekeybroad.app-main-75:\\layout-w600dp\\activity_main.xml"
     },
     {
-        "merged": "com.jollitycn.mobilekeybroad.app-debug-73:/layout-w1240dp_activity_mainbak.xml.flat",
-        "source": "com.jollitycn.mobilekeybroad.app-main-75:/layout-w1240dp/activity_mainbak.xml"
+        "merged": "D:\\Users\\jollitycn\\.m2\\repository\\daemon\\8.6\\com.jollitycn.mobilekeybroad.app-debug-73:\\menu_option_menu.xml.flat",
+        "source": "D:\\Users\\jollitycn\\.m2\\repository\\daemon\\8.6\\com.jollitycn.mobilekeybroad.app-main-75:\\menu\\option_menu.xml"
     },
     {
-        "merged": "com.jollitycn.mobilekeybroad.app-debug-73:/drawable_key_with_inner_border.xml.flat",
-        "source": "com.jollitycn.mobilekeybroad.app-main-75:/drawable/key_with_inner_border.xml"
+        "merged": "D:\\Users\\jollitycn\\.m2\\repository\\daemon\\8.6\\com.jollitycn.mobilekeybroad.app-debug-73:\\layout_bluetooth_device_list_item.xml.flat",
+        "source": "D:\\Users\\jollitycn\\.m2\\repository\\daemon\\8.6\\com.jollitycn.mobilekeybroad.app-main-75:\\layout\\bluetooth_device_list_item.xml"
     },
     {
-        "merged": "com.jollitycn.mobilekeybroad.app-debug-73:/layout_fragment_transform.xml.flat",
-        "source": "com.jollitycn.mobilekeybroad.app-main-75:/layout/fragment_transform.xml"
+        "merged": "D:\\Users\\jollitycn\\.m2\\repository\\daemon\\8.6\\com.jollitycn.mobilekeybroad.app-debug-73:\\layout-w600dp_app_bar_main.xml.flat",
+        "source": "D:\\Users\\jollitycn\\.m2\\repository\\daemon\\8.6\\com.jollitycn.mobilekeybroad.app-main-75:\\layout-w600dp\\app_bar_main.xml"
     },
     {
-        "merged": "com.jollitycn.mobilekeybroad.app-debug-73:/layout_mouse_control_fragment.xml.flat",
-        "source": "com.jollitycn.mobilekeybroad.app-main-75:/layout/mouse_control_fragment.xml"
+        "merged": "D:\\Users\\jollitycn\\.m2\\repository\\daemon\\8.6\\com.jollitycn.mobilekeybroad.app-debug-73:\\layout_device_name.xml.flat",
+        "source": "D:\\Users\\jollitycn\\.m2\\repository\\daemon\\8.6\\com.jollitycn.mobilekeybroad.app-main-75:\\layout\\device_name.xml"
     },
     {
-        "merged": "com.jollitycn.mobilekeybroad.app-debug-73:/layout_device_list.xml.flat",
-        "source": "com.jollitycn.mobilekeybroad.app-main-75:/layout/device_list.xml"
+        "merged": "D:\\Users\\jollitycn\\.m2\\repository\\daemon\\8.6\\com.jollitycn.mobilekeybroad.app-debug-73:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "D:\\Users\\jollitycn\\.m2\\repository\\daemon\\8.6\\com.jollitycn.mobilekeybroad.app-main-75:\\mipmap-hdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.jollitycn.mobilekeybroad.app-debug-73:/layout_keyboard_fragment.xml.flat",
-        "source": "com.jollitycn.mobilekeybroad.app-main-75:/layout/keyboard_fragment.xml"
+        "merged": "D:\\Users\\jollitycn\\.m2\\repository\\daemon\\8.6\\com.jollitycn.mobilekeybroad.app-debug-73:\\layout_fragment_settings.xml.flat",
+        "source": "D:\\Users\\jollitycn\\.m2\\repository\\daemon\\8.6\\com.jollitycn.mobilekeybroad.app-main-75:\\layout\\fragment_settings.xml"
     },
     {
-        "merged": "com.jollitycn.mobilekeybroad.app-debug-73:/drawable_ic_launcher_foreground.xml.flat",
-        "source": "com.jollitycn.mobilekeybroad.app-main-75:/drawable/ic_launcher_foreground.xml"
+        "merged": "D:\\Users\\jollitycn\\.m2\\repository\\daemon\\8.6\\com.jollitycn.mobilekeybroad.app-debug-73:\\layout_device_list.xml.flat",
+        "source": "D:\\Users\\jollitycn\\.m2\\repository\\daemon\\8.6\\com.jollitycn.mobilekeybroad.app-main-75:\\layout\\device_list.xml"
     },
     {
-        "merged": "com.jollitycn.mobilekeybroad.app-debug-73:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "com.jollitycn.mobilekeybroad.app-main-75:/mipmap-xxhdpi/ic_launcher_round.webp"
+        "merged": "D:\\Users\\jollitycn\\.m2\\repository\\daemon\\8.6\\com.jollitycn.mobilekeybroad.app-debug-73:\\layout-w1240dp_app_bar_main.xml.flat",
+        "source": "D:\\Users\\jollitycn\\.m2\\repository\\daemon\\8.6\\com.jollitycn.mobilekeybroad.app-main-75:\\layout-w1240dp\\app_bar_main.xml"
     },
     {
-        "merged": "com.jollitycn.mobilekeybroad.app-debug-73:/layout_content_main.xml.flat",
-        "source": "com.jollitycn.mobilekeybroad.app-main-75:/layout/content_main.xml"
+        "merged": "D:\\Users\\jollitycn\\.m2\\repository\\daemon\\8.6\\com.jollitycn.mobilekeybroad.app-debug-73:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "D:\\Users\\jollitycn\\.m2\\repository\\daemon\\8.6\\com.jollitycn.mobilekeybroad.app-main-75:\\mipmap-hdpi\\ic_launcher.webp"
     },
     {
-        "merged": "com.jollitycn.mobilekeybroad.app-debug-73:/drawable_ic_settings_black_24dp.xml.flat",
-        "source": "com.jollitycn.mobilekeybroad.app-main-75:/drawable/ic_settings_black_24dp.xml"
+        "merged": "D:\\Users\\jollitycn\\.m2\\repository\\daemon\\8.6\\com.jollitycn.mobilekeybroad.app-debug-73:\\layout_item_transform.xml.flat",
+        "source": "D:\\Users\\jollitycn\\.m2\\repository\\daemon\\8.6\\com.jollitycn.mobilekeybroad.app-main-75:\\layout\\item_transform.xml"
     },
     {
-        "merged": "com.jollitycn.mobilekeybroad.app-debug-73:/drawable_key_border.xml.flat",
-        "source": "com.jollitycn.mobilekeybroad.app-main-75:/drawable/key_border.xml"
+        "merged": "D:\\Users\\jollitycn\\.m2\\repository\\daemon\\8.6\\com.jollitycn.mobilekeybroad.app-debug-73:\\drawable_key_border.xml.flat",
+        "source": "D:\\Users\\jollitycn\\.m2\\repository\\daemon\\8.6\\com.jollitycn.mobilekeybroad.app-main-75:\\drawable\\key_border.xml"
     },
     {
-        "merged": "com.jollitycn.mobilekeybroad.app-debug-73:/layout-w600dp_content_main.xml.flat",
-        "source": "com.jollitycn.mobilekeybroad.app-main-75:/layout-w600dp/content_main.xml"
+        "merged": "D:\\Users\\jollitycn\\.m2\\repository\\daemon\\8.6\\com.jollitycn.mobilekeybroad.app-debug-73:\\layout-w600dp_content_main.xml.flat",
+        "source": "D:\\Users\\jollitycn\\.m2\\repository\\daemon\\8.6\\com.jollitycn.mobilekeybroad.app-main-75:\\layout-w600dp\\content_main.xml"
     },
     {
-        "merged": "com.jollitycn.mobilekeybroad.app-debug-73:/layout-w600dp_item_transform.xml.flat",
-        "source": "com.jollitycn.mobilekeybroad.app-main-75:/layout-w600dp/item_transform.xml"
+        "merged": "D:\\Users\\jollitycn\\.m2\\repository\\daemon\\8.6\\com.jollitycn.mobilekeybroad.app-debug-73:\\drawable_ic_camera_black_24dp.xml.flat",
+        "source": "D:\\Users\\jollitycn\\.m2\\repository\\daemon\\8.6\\com.jollitycn.mobilekeybroad.app-main-75:\\drawable\\ic_camera_black_24dp.xml"
     },
     {
-        "merged": "com.jollitycn.mobilekeybroad.app-debug-73:/drawable_stat_minus_1_24px.xml.flat",
-        "source": "com.jollitycn.mobilekeybroad.app-main-75:/drawable/stat_minus_1_24px.xml"
+        "merged": "D:\\Users\\jollitycn\\.m2\\repository\\daemon\\8.6\\com.jollitycn.mobilekeybroad.app-debug-73:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "D:\\Users\\jollitycn\\.m2\\repository\\daemon\\8.6\\com.jollitycn.mobilekeybroad.app-main-75:\\drawable\\ic_launcher_foreground.xml"
     },
     {
-        "merged": "com.jollitycn.mobilekeybroad.app-debug-73:/mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "com.jollitycn.mobilekeybroad.app-main-75:/mipmap-mdpi/ic_launcher_round.webp"
+        "merged": "D:\\Users\\jollitycn\\.m2\\repository\\daemon\\8.6\\com.jollitycn.mobilekeybroad.app-debug-73:\\layout_fragment_reflow.xml.flat",
+        "source": "D:\\Users\\jollitycn\\.m2\\repository\\daemon\\8.6\\com.jollitycn.mobilekeybroad.app-main-75:\\layout\\fragment_reflow.xml"
     },
     {
-        "merged": "com.jollitycn.mobilekeybroad.app-debug-73:/layout_activity_main.xml.flat",
-        "source": "com.jollitycn.mobilekeybroad.app-main-75:/layout/activity_main.xml"
+        "merged": "D:\\Users\\jollitycn\\.m2\\repository\\daemon\\8.6\\com.jollitycn.mobilekeybroad.app-debug-73:\\layout-w600dp_fragment_transform.xml.flat",
+        "source": "D:\\Users\\jollitycn\\.m2\\repository\\daemon\\8.6\\com.jollitycn.mobilekeybroad.app-main-75:\\layout-w600dp\\fragment_transform.xml"
     },
     {
-        "merged": "com.jollitycn.mobilekeybroad.app-debug-73:/layout_custom_title.xml.flat",
-        "source": "com.jollitycn.mobilekeybroad.app-main-75:/layout/custom_title.xml"
+        "merged": "D:\\Users\\jollitycn\\.m2\\repository\\daemon\\8.6\\com.jollitycn.mobilekeybroad.app-debug-73:\\layout-w600dp_item_transform.xml.flat",
+        "source": "D:\\Users\\jollitycn\\.m2\\repository\\daemon\\8.6\\com.jollitycn.mobilekeybroad.app-main-75:\\layout-w600dp\\item_transform.xml"
     },
     {
-        "merged": "com.jollitycn.mobilekeybroad.app-debug-73:/xml_data_extraction_rules.xml.flat",
-        "source": "com.jollitycn.mobilekeybroad.app-main-75:/xml/data_extraction_rules.xml"
+        "merged": "D:\\Users\\jollitycn\\.m2\\repository\\daemon\\8.6\\com.jollitycn.mobilekeybroad.app-debug-73:\\drawable_stat_minus_1_24px.xml.flat",
+        "source": "D:\\Users\\jollitycn\\.m2\\repository\\daemon\\8.6\\com.jollitycn.mobilekeybroad.app-main-75:\\drawable\\stat_minus_1_24px.xml"
     },
     {
-        "merged": "com.jollitycn.mobilekeybroad.app-debug-73:/layout_activity_mainbak.xml.flat",
-        "source": "com.jollitycn.mobilekeybroad.app-main-75:/layout/activity_mainbak.xml"
+        "merged": "D:\\Users\\jollitycn\\.m2\\repository\\daemon\\8.6\\com.jollitycn.mobilekeybroad.app-debug-73:\\layout_keyboard_fragment.xml.flat",
+        "source": "D:\\Users\\jollitycn\\.m2\\repository\\daemon\\8.6\\com.jollitycn.mobilekeybroad.app-main-75:\\layout\\keyboard_fragment.xml"
     },
     {
-        "merged": "com.jollitycn.mobilekeybroad.app-debug-73:/layout-w600dp_activity_mainbak.xml.flat",
-        "source": "com.jollitycn.mobilekeybroad.app-main-75:/layout-w600dp/activity_mainbak.xml"
+        "merged": "D:\\Users\\jollitycn\\.m2\\repository\\daemon\\8.6\\com.jollitycn.mobilekeybroad.app-debug-73:\\drawable_keyboard_arrow_up_24px.xml.flat",
+        "source": "D:\\Users\\jollitycn\\.m2\\repository\\daemon\\8.6\\com.jollitycn.mobilekeybroad.app-main-75:\\drawable\\keyboard_arrow_up_24px.xml"
     },
     {
-        "merged": "com.jollitycn.mobilekeybroad.app-debug-73:/xml_keyboard_layout.xml.flat",
-        "source": "com.jollitycn.mobilekeybroad.app-main-75:/xml/keyboard_layout.xml"
+        "merged": "D:\\Users\\jollitycn\\.m2\\repository\\daemon\\8.6\\com.jollitycn.mobilekeybroad.app-debug-73:\\layout_fragment_transform.xml.flat",
+        "source": "D:\\Users\\jollitycn\\.m2\\repository\\daemon\\8.6\\com.jollitycn.mobilekeybroad.app-main-75:\\layout\\fragment_transform.xml"
     },
     {
-        "merged": "com.jollitycn.mobilekeybroad.app-debug-73:/layout-w600dp_activity_main.xml.flat",
-        "source": "com.jollitycn.mobilekeybroad.app-main-75:/layout-w600dp/activity_main.xml"
+        "merged": "D:\\Users\\jollitycn\\.m2\\repository\\daemon\\8.6\\com.jollitycn.mobilekeybroad.app-debug-73:\\layout_custom_title.xml.flat",
+        "source": "D:\\Users\\jollitycn\\.m2\\repository\\daemon\\8.6\\com.jollitycn.mobilekeybroad.app-main-75:\\layout\\custom_title.xml"
     },
     {
-        "merged": "com.jollitycn.mobilekeybroad.app-debug-73:/layout_fragment_slideshow.xml.flat",
-        "source": "com.jollitycn.mobilekeybroad.app-main-75:/layout/fragment_slideshow.xml"
+        "merged": "D:\\Users\\jollitycn\\.m2\\repository\\daemon\\8.6\\com.jollitycn.mobilekeybroad.app-debug-73:\\layout_mousepad_fragment.xml.flat",
+        "source": "D:\\Users\\jollitycn\\.m2\\repository\\daemon\\8.6\\com.jollitycn.mobilekeybroad.app-main-75:\\layout\\mousepad_fragment.xml"
     },
     {
-        "merged": "com.jollitycn.mobilekeybroad.app-debug-73:/menu_option_menu.xml.flat",
-        "source": "com.jollitycn.mobilekeybroad.app-main-75:/menu/option_menu.xml"
-    },
-    {
-        "merged": "com.jollitycn.mobilekeybroad.app-debug-73:/mipmap-anydpi_ic_launcher.xml.flat",
-        "source": "com.jollitycn.mobilekeybroad.app-main-75:/mipmap-anydpi/ic_launcher.xml"
-    },
-    {
-        "merged": "com.jollitycn.mobilekeybroad.app-debug-73:/drawable_ic_slideshow_black_24dp.xml.flat",
-        "source": "com.jollitycn.mobilekeybroad.app-main-75:/drawable/ic_slideshow_black_24dp.xml"
-    },
-    {
-        "merged": "com.jollitycn.mobilekeybroad.app-debug-73:/drawable_ic_camera_black_24dp.xml.flat",
-        "source": "com.jollitycn.mobilekeybroad.app-main-75:/drawable/ic_camera_black_24dp.xml"
-    },
-    {
-        "merged": "com.jollitycn.mobilekeybroad.app-debug-73:/mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "com.jollitycn.mobilekeybroad.app-main-75:/mipmap-xxxhdpi/ic_launcher.webp"
-    },
-    {
-        "merged": "com.jollitycn.mobilekeybroad.app-debug-73:/mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "com.jollitycn.mobilekeybroad.app-main-75:/mipmap-xhdpi/ic_launcher.webp"
-    },
-    {
-        "merged": "com.jollitycn.mobilekeybroad.app-debug-73:/layout-w1240dp_app_bar_main.xml.flat",
-        "source": "com.jollitycn.mobilekeybroad.app-main-75:/layout-w1240dp/app_bar_main.xml"
-    },
-    {
-        "merged": "com.jollitycn.mobilekeybroad.app-debug-73:/layout_activity_keybroad.xml.flat",
-        "source": "com.jollitycn.mobilekeybroad.app-main-75:/layout/activity_keybroad.xml"
-    },
-    {
-        "merged": "com.jollitycn.mobilekeybroad.app-debug-73:/layout_device_name.xml.flat",
-        "source": "com.jollitycn.mobilekeybroad.app-main-75:/layout/device_name.xml"
+        "merged": "D:\\Users\\jollitycn\\.m2\\repository\\daemon\\8.6\\com.jollitycn.mobilekeybroad.app-debug-73:\\menu_bottom_navigation.xml.flat",
+        "source": "D:\\Users\\jollitycn\\.m2\\repository\\daemon\\8.6\\com.jollitycn.mobilekeybroad.app-main-75:\\menu\\bottom_navigation.xml"
     }
 ]
